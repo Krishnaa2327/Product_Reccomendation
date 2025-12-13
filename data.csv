@@ -1,0 +1,1001 @@
+Invoice,ProductID,Product,QuantityBought,Date,Price,CustomerID,Age,Gender,AverageSpend,PurchaseFrequency,Country
+221958,3180,Wall Clock,4,1/1/2021 0:00,34.04,81117,29,Female,97.34,High,United Kingdom
+771155,5892,Ceramic Mug,6,1/1/2021 1:00,94.43,71158,33,Male,273.44,High,USA
+231932,8043,Ceramic Mug,3,1/1/2021 2:00,112.72,44782,58,Male,128.34,High,Canada
+465838,1137,Ceramic Mug,6,1/1/2021 3:00,112,95709,49,Female,214.24,High,United Kingdom
+359178,7327,Desk Organizer,2,1/1/2021 4:00,80.61,88533,32,Male,178.9,Low,USA
+744167,4472,Home Decor Lamp,8,1/1/2021 5:00,14.93,68255,44,Male,22.57,Low,United Kingdom
+210268,6449,Storage Box,2,1/1/2021 6:00,58.81,82684,45,Male,106.69,Medium,Canada
+832180,3832,Desk Organizer,7,1/1/2021 7:00,138.51,66918,34,Male,326.24,High,Australia
+154886,4579,Bluetooth Speaker,9,1/1/2021 8:00,89.75,94284,19,Male,130.45,High,Australia
+237337,6971,Storage Box,1,1/1/2021 9:00,83.06,89558,53,Female,183.06,Low,Australia
+621430,5164,LED Light Strip,8,1/1/2021 10:00,43.98,95549,24,Male,105.33,Medium,United Kingdom
+187498,8941,Wall Clock,7,1/1/2021 11:00,58.43,91422,30,Male,69.01,Low,United Kingdom
+999159,6569,Desk Organizer,6,1/1/2021 12:00,134.83,35256,32,Female,268.99,High,Australia
+275203,5300,Notebook,6,1/1/2021 13:00,101.64,40005,42,Female,155.12,High,Australia
+291335,7269,Storage Box,6,1/1/2021 14:00,119.17,16638,40,Male,291.82,Low,USA
+378167,4818,Bluetooth Speaker,9,1/1/2021 15:00,70.88,47419,39,Male,97.75,Medium,United Kingdom
+141090,2906,LED Light Strip,2,1/1/2021 16:00,96.39,43377,43,Female,268.4,High,Australia
+429365,7254,Home Decor Lamp,1,1/1/2021 17:00,41.02,53116,50,Female,76.37,High,United Kingdom
+164820,1760,Notebook,6,1/1/2021 18:00,107.29,46634,28,Female,149.78,Low,Canada
+887201,8830,Storage Box,8,1/1/2021 19:00,67,92291,27,Female,125.69,High,USA
+421879,8350,Wall Clock,3,1/1/2021 20:00,69.17,33382,42,Female,125.72,Medium,Australia
+818315,7238,Notebook,1,1/1/2021 21:00,99.15,66063,54,Male,184.2,High,Australia
+427069,7090,LED Light Strip,9,1/1/2021 22:00,140.76,32394,55,Female,305.61,High,Australia
+876997,7031,Notebook,1,1/1/2021 23:00,14.28,77789,58,Male,29.16,Low,Australia
+299041,8687,Wireless Mouse,3,1/2/2021 0:00,124.59,10864,41,Female,161.91,Low,Canada
+891743,9472,Water Bottle,8,1/2/2021 1:00,47.4,50222,57,Female,53.62,High,Australia
+203355,2887,Home Decor Lamp,3,1/2/2021 2:00,69.37,23666,50,Male,170.57,Low,USA
+335796,4266,LED Light Strip,4,1/2/2021 3:00,8.18,30955,34,Male,17.34,High,Australia
+314176,1666,Notebook,8,1/2/2021 4:00,48.65,91845,41,Male,83.58,High,USA
+284779,5188,Water Bottle,1,1/2/2021 5:00,77.88,79590,54,Male,203.79,High,Australia
+447449,1671,Water Bottle,6,1/2/2021 6:00,13.15,76471,19,Female,23.36,Medium,Canada
+521909,7777,Notebook,1,1/2/2021 7:00,76.21,98314,49,Male,197.53,Medium,USA
+358795,8570,Wall Clock,1,1/2/2021 8:00,139.43,53298,41,Female,224.69,High,USA
+586232,8956,Wireless Mouse,8,1/2/2021 9:00,20.28,73108,26,Male,23.23,Low,Australia
+600186,6124,Desk Organizer,4,1/2/2021 10:00,115.84,58924,21,Female,331.91,High,Australia
+256730,6585,Wireless Mouse,1,1/2/2021 11:00,64.4,26709,34,Female,115.22,High,United Kingdom
+970910,5777,Notebook,7,1/2/2021 12:00,100,19726,34,Female,258.54,Medium,Australia
+484681,4900,Home Decor Lamp,5,1/2/2021 13:00,42.73,70824,47,Male,66.59,High,Australia
+249503,7677,Desk Organizer,5,1/2/2021 14:00,28.13,50542,57,Female,64.49,Low,Australia
+754811,7981,LED Light Strip,1,1/2/2021 15:00,28.27,30245,28,Male,77.65,Medium,United Kingdom
+627035,7376,Wireless Mouse,6,1/2/2021 16:00,15.22,44753,38,Male,16.49,High,United Kingdom
+748143,1523,Notebook,9,1/2/2021 17:00,31.92,89788,38,Male,84.95,High,Australia
+552366,3393,Wireless Mouse,9,1/2/2021 18:00,101.31,31316,35,Male,217.07,Medium,Australia
+165725,3593,Desk Organizer,8,1/2/2021 19:00,132.85,94698,46,Female,294.26,High,Australia
+229981,8240,Bluetooth Speaker,5,1/2/2021 20:00,123.05,25960,41,Male,251.8,Medium,United Kingdom
+184654,7937,Storage Box,1,1/2/2021 21:00,104.34,40791,27,Female,286.83,Medium,Australia
+691723,7190,Wireless Mouse,9,1/2/2021 22:00,21.01,35216,34,Female,22.84,Medium,Australia
+419030,6240,LED Light Strip,1,1/2/2021 23:00,46.93,42467,35,Male,71.43,High,USA
+428947,7493,LED Light Strip,8,1/3/2021 0:00,49.92,74427,59,Female,137.36,Low,USA
+655839,3878,Ceramic Mug,5,1/3/2021 1:00,41.24,72047,37,Male,103.29,Medium,USA
+373538,5143,Wireless Mouse,3,1/3/2021 2:00,79.68,83290,54,Male,82.49,Medium,Canada
+431236,4644,Storage Box,7,1/3/2021 3:00,82.66,57014,35,Male,168.13,High,Australia
+628178,5432,Wall Clock,7,1/3/2021 4:00,56.75,14078,34,Female,116.86,Medium,United Kingdom
+665894,2276,Water Bottle,9,1/3/2021 5:00,56.3,88389,26,Female,101.44,Medium,Australia
+589492,6811,Storage Box,7,1/3/2021 6:00,125.14,60519,31,Male,199.57,Low,United Kingdom
+356840,1302,Water Bottle,3,1/3/2021 7:00,119.45,14042,46,Male,282.31,High,Australia
+573254,1638,Water Bottle,1,1/3/2021 8:00,49.63,59052,48,Female,70.26,High,United Kingdom
+449457,1055,Bluetooth Speaker,8,1/3/2021 9:00,137.5,24389,21,Male,357.21,Medium,United Kingdom
+765987,9717,Ceramic Mug,3,1/3/2021 10:00,143.16,78111,35,Female,373.09,High,Australia
+370936,9150,Storage Box,8,1/3/2021 11:00,52.38,60733,37,Female,95.88,Low,Canada
+339931,3125,Storage Box,8,1/3/2021 12:00,56.39,44754,26,Male,88.37,High,Australia
+339629,1364,Bluetooth Speaker,5,1/3/2021 13:00,78.32,28624,30,Female,122.79,Medium,Australia
+305041,7809,Wireless Mouse,1,1/3/2021 14:00,141.46,95886,32,Male,277.91,Low,Australia
+798361,5621,Wireless Mouse,7,1/3/2021 15:00,132.07,36681,44,Female,322.14,Medium,Australia
+831912,6126,Wireless Mouse,5,1/3/2021 16:00,19.87,99524,32,Female,34.13,High,Australia
+517113,6122,Home Decor Lamp,8,1/3/2021 17:00,61.95,91006,45,Male,137.53,High,USA
+168148,2646,Water Bottle,9,1/3/2021 18:00,85.24,34704,54,Male,150.45,Medium,Australia
+877089,1918,Home Decor Lamp,7,1/3/2021 19:00,77.95,17493,36,Female,125.43,High,Australia
+748531,3797,Ceramic Mug,7,1/3/2021 20:00,33.11,79639,43,Female,34.76,Low,Australia
+351995,7506,Bluetooth Speaker,1,1/3/2021 21:00,129.53,64383,43,Male,130.54,Low,United Kingdom
+778843,6870,Storage Box,4,1/3/2021 22:00,103.16,12994,42,Female,150.04,Medium,Canada
+672843,2531,Water Bottle,2,1/3/2021 23:00,126.5,79280,43,Male,229.32,High,United Kingdom
+356508,9172,Home Decor Lamp,2,1/4/2021 0:00,129.52,57234,43,Male,350.03,High,Canada
+903591,4345,Home Decor Lamp,2,1/4/2021 1:00,113.51,57291,45,Female,294.78,Medium,USA
+996942,8673,Notebook,4,1/4/2021 2:00,68.69,15594,35,Male,105.39,Low,Canada
+206530,7949,Home Decor Lamp,1,1/4/2021 3:00,93.53,17371,49,Female,139.27,Medium,United Kingdom
+704365,7882,Wall Clock,4,1/4/2021 4:00,28.25,57315,20,Male,41.09,Low,Australia
+922352,2906,Storage Box,2,1/4/2021 5:00,102.68,93564,19,Female,172.35,Low,United Kingdom
+560337,4086,Wall Clock,5,1/4/2021 6:00,30.99,89526,50,Male,61.87,Medium,United Kingdom
+824839,9152,Storage Box,3,1/4/2021 7:00,105.62,26626,59,Male,198.28,Medium,Canada
+905889,6750,Bluetooth Speaker,8,1/4/2021 8:00,38.29,96005,36,Female,55.01,Medium,Canada
+559773,9905,Storage Box,4,1/4/2021 9:00,22.04,17130,34,Male,27.79,Medium,Canada
+308261,2062,Wall Clock,1,1/4/2021 10:00,28.97,16828,50,Male,29.7,Low,Canada
+864469,2976,Storage Box,1,1/4/2021 11:00,5.29,67514,29,Male,6.92,Low,Australia
+441097,2296,Bluetooth Speaker,3,1/4/2021 12:00,109.22,62664,20,Male,263.3,High,Australia
+415139,7229,Bluetooth Speaker,9,1/4/2021 13:00,111.2,27883,43,Female,165.39,Low,Australia
+271829,8641,Ceramic Mug,7,1/4/2021 14:00,79.67,53059,52,Male,154.34,High,USA
+371836,1125,Storage Box,2,1/4/2021 15:00,28.4,94078,25,Female,61.99,Low,Canada
+538974,5632,Notebook,9,1/4/2021 16:00,17.12,52932,53,Male,47.49,Medium,United Kingdom
+302283,7288,Wireless Mouse,2,1/4/2021 17:00,7.77,71269,24,Male,21.58,Low,Canada
+296769,4596,LED Light Strip,3,1/4/2021 18:00,29.03,85986,53,Male,72.33,Low,Canada
+661353,7168,Bluetooth Speaker,2,1/4/2021 19:00,134.17,95959,33,Male,143.6,Medium,USA
+323165,8561,Desk Organizer,3,1/4/2021 20:00,40.02,12035,41,Male,86.05,High,Canada
+723587,9258,Wireless Mouse,6,1/4/2021 21:00,56.37,50745,18,Female,145.05,Low,United Kingdom
+635822,1232,Water Bottle,9,1/4/2021 22:00,20.28,27241,42,Female,20.98,Medium,United Kingdom
+587879,7371,Storage Box,9,1/4/2021 23:00,37.24,62975,27,Male,78.18,High,Australia
+664685,5206,Wall Clock,7,1/5/2021 0:00,80.29,33154,33,Male,218.03,Medium,United Kingdom
+882038,8943,LED Light Strip,3,1/5/2021 1:00,93.12,35625,33,Male,181.42,High,Australia
+453531,7891,Desk Organizer,4,1/5/2021 2:00,40.58,54950,25,Male,40.91,Low,Australia
+363160,7738,Wireless Mouse,6,1/5/2021 3:00,13.37,66396,46,Male,13.66,High,Canada
+679879,3472,Storage Box,5,1/5/2021 4:00,61.7,23331,56,Male,113.11,Medium,United Kingdom
+320884,3739,Ceramic Mug,2,1/5/2021 5:00,38.96,73927,45,Male,51.04,Medium,USA
+123247,6401,Water Bottle,6,1/5/2021 6:00,36.84,96226,23,Male,85.8,High,Australia
+124300,2761,LED Light Strip,3,1/5/2021 7:00,144.18,94719,33,Male,348.57,Medium,Australia
+567281,1876,Notebook,8,1/5/2021 8:00,94.36,73014,37,Male,127.93,Medium,Australia
+707086,4812,Ceramic Mug,2,1/5/2021 9:00,85.75,49346,33,Male,238.13,High,Australia
+633556,2460,Desk Organizer,1,1/5/2021 10:00,65.29,80411,24,Male,122.99,Medium,Australia
+448951,2733,LED Light Strip,9,1/5/2021 11:00,67.2,64478,58,Male,86.4,Low,Australia
+374329,2605,Ceramic Mug,3,1/5/2021 12:00,83.43,22254,31,Male,210.95,High,Australia
+819064,6622,Water Bottle,1,1/5/2021 13:00,105.98,65734,43,Male,273.42,Low,Australia
+842139,7767,Notebook,7,1/5/2021 14:00,106.81,38621,43,Male,243.38,High,Australia
+532315,7986,Ceramic Mug,5,1/5/2021 15:00,29.9,86441,31,Male,80.94,High,Canada
+616588,4517,Home Decor Lamp,5,1/5/2021 16:00,77.52,56121,24,Male,191.84,Medium,Australia
+336584,4735,Notebook,1,1/5/2021 17:00,64.73,91418,50,Male,178.94,Medium,United Kingdom
+662332,9434,Desk Organizer,9,1/5/2021 18:00,131.23,70197,43,Male,245.11,Low,Canada
+937646,3590,Water Bottle,7,1/5/2021 19:00,96.56,94577,37,Female,240.94,Low,Australia
+476896,2063,Storage Box,8,1/5/2021 20:00,82.21,52431,20,Male,246.59,High,USA
+148984,5324,Wall Clock,9,1/5/2021 21:00,21.73,14837,21,Male,53.24,Low,Canada
+402918,6342,Wall Clock,6,1/5/2021 22:00,92.82,93163,43,Female,114.02,Medium,Canada
+364712,1005,Wall Clock,5,1/5/2021 23:00,21.99,81232,28,Male,44.79,High,Australia
+220151,8489,LED Light Strip,6,1/6/2021 0:00,53.89,58994,19,Male,117.19,High,Canada
+555808,9659,Desk Organizer,2,1/6/2021 1:00,25.71,89079,31,Female,34.67,Medium,Canada
+233767,9195,Water Bottle,4,1/6/2021 2:00,105.35,22615,47,Female,308.23,Medium,Australia
+748663,6966,Notebook,3,1/6/2021 3:00,34.91,11466,29,Male,47.17,High,Australia
+803550,9837,LED Light Strip,7,1/6/2021 4:00,61.82,40771,43,Male,83.77,High,Australia
+236330,1117,Desk Organizer,9,1/6/2021 5:00,134.87,93886,50,Male,381.73,High,Canada
+580754,3551,Storage Box,5,1/6/2021 6:00,34.63,75911,30,Male,66.85,Medium,Australia
+401648,6560,Home Decor Lamp,6,1/6/2021 7:00,78.63,30746,31,Female,88.57,Low,Canada
+788519,5289,Water Bottle,2,1/6/2021 8:00,65.79,98422,41,Male,144.5,Low,Australia
+113986,1846,Wall Clock,3,1/6/2021 9:00,7.63,70739,51,Male,16.81,Medium,Canada
+686146,7316,Ceramic Mug,3,1/6/2021 10:00,119.95,83369,43,Female,135.42,High,Australia
+229312,7469,Water Bottle,9,1/6/2021 11:00,15.01,11893,38,Female,44.21,High,Australia
+112666,9915,Bluetooth Speaker,7,1/6/2021 12:00,73.77,40573,45,Male,154.04,High,United Kingdom
+400804,1224,Desk Organizer,8,1/6/2021 13:00,86.3,50874,53,Female,182.92,Medium,Australia
+234633,5208,Wireless Mouse,9,1/6/2021 14:00,96.12,87362,57,Male,196.11,High,Australia
+388998,7283,Storage Box,6,1/6/2021 15:00,104.85,97460,19,Female,232.92,High,Australia
+950937,3048,Home Decor Lamp,4,1/6/2021 16:00,41.72,43367,59,Male,63.77,High,United Kingdom
+728776,7233,Storage Box,1,1/6/2021 17:00,6.45,31199,26,Male,10.16,Medium,USA
+807611,2828,Water Bottle,8,1/6/2021 18:00,109.9,84328,40,Male,222.29,Medium,Canada
+384806,2917,Wireless Mouse,7,1/6/2021 19:00,82.67,67724,32,Male,216.05,High,Australia
+894824,5234,Bluetooth Speaker,2,1/6/2021 20:00,126.24,96133,30,Male,138.83,Medium,Australia
+130535,7988,Notebook,8,1/6/2021 21:00,124.1,46405,40,Female,273.86,High,United Kingdom
+475713,3026,Ceramic Mug,5,1/6/2021 22:00,127.28,25989,34,Female,332.65,Low,Canada
+938688,4744,Wireless Mouse,7,1/6/2021 23:00,75.34,38931,19,Male,98.98,High,Australia
+451279,1009,Desk Organizer,4,1/7/2021 0:00,53.38,19290,37,Male,54.98,High,Australia
+921654,1260,Wall Clock,5,1/7/2021 1:00,119.78,48367,37,Male,194.69,High,Australia
+701661,7038,Bluetooth Speaker,8,1/7/2021 2:00,70.44,89878,20,Female,153.3,Medium,Canada
+747972,3219,Ceramic Mug,1,1/7/2021 3:00,31.6,89481,29,Female,40.34,High,Australia
+589570,8041,Home Decor Lamp,1,1/7/2021 4:00,128.97,86298,57,Female,238.88,High,Canada
+556551,3060,Wall Clock,4,1/7/2021 5:00,132.97,40133,19,Female,279.85,Medium,Australia
+373109,6287,Water Bottle,3,1/7/2021 6:00,72.61,37052,53,Male,159.58,High,Australia
+124538,2619,Wireless Mouse,2,1/7/2021 7:00,15.98,95489,31,Male,24.75,Medium,Australia
+994498,9512,Ceramic Mug,3,1/7/2021 8:00,61.23,50475,33,Female,110.22,Medium,Australia
+301664,2342,LED Light Strip,1,1/7/2021 9:00,121.51,92666,36,Female,310.66,Medium,Australia
+591234,3832,Notebook,1,1/7/2021 10:00,135.76,67656,51,Male,391.32,High,Australia
+999684,3824,Notebook,6,1/7/2021 11:00,34.5,14633,23,Male,93.97,Medium,Australia
+239182,2994,Bluetooth Speaker,5,1/7/2021 12:00,14.71,27304,30,Female,31.31,High,Australia
+572525,4490,Home Decor Lamp,8,1/7/2021 13:00,132.22,56546,53,Male,240.72,Medium,Australia
+258338,8984,Bluetooth Speaker,2,1/7/2021 14:00,61.46,17008,39,Male,102.39,Medium,USA
+284064,2604,LED Light Strip,4,1/7/2021 15:00,83.56,58291,35,Female,104.44,High,United Kingdom
+314020,1235,Desk Organizer,8,1/7/2021 16:00,145.37,37405,29,Male,176.35,High,United Kingdom
+723094,2908,Home Decor Lamp,6,1/7/2021 17:00,14.65,46386,47,Male,34.82,High,Australia
+997421,9567,Storage Box,1,1/7/2021 18:00,99.01,30827,57,Female,150.45,Low,Australia
+715270,4530,Desk Organizer,4,1/7/2021 19:00,15.75,43040,24,Female,23.77,Low,Australia
+745914,6256,Home Decor Lamp,1,1/7/2021 20:00,59.44,70354,49,Female,178.11,High,United Kingdom
+219176,3635,Home Decor Lamp,2,1/7/2021 21:00,121.55,88543,36,Male,167.23,High,Australia
+318126,9162,LED Light Strip,5,1/7/2021 22:00,67.85,28157,23,Male,87.94,Low,Australia
+318969,3560,Water Bottle,8,1/7/2021 23:00,149.59,45315,37,Female,179.11,Medium,Canada
+222409,6415,LED Light Strip,8,1/8/2021 0:00,86.06,45932,44,Male,185.86,High,Australia
+647707,4391,Home Decor Lamp,3,1/8/2021 1:00,51.57,31164,54,Male,116.33,Medium,Australia
+353618,6951,Ceramic Mug,4,1/8/2021 2:00,36.92,24414,24,Female,63.89,High,Australia
+869598,6468,Desk Organizer,6,1/8/2021 3:00,55.83,24327,22,Male,115.61,Medium,United Kingdom
+150015,9007,LED Light Strip,3,1/8/2021 4:00,59.02,10946,28,Male,152.08,Medium,Canada
+872838,7413,Water Bottle,2,1/8/2021 5:00,14.96,24693,32,Male,39.44,High,Australia
+222096,7941,Wireless Mouse,6,1/8/2021 6:00,58.59,37241,20,Male,170.84,Low,Australia
+731347,5820,Bluetooth Speaker,5,1/8/2021 7:00,72.31,25540,22,Male,191.52,Medium,United Kingdom
+285340,3898,Home Decor Lamp,5,1/8/2021 8:00,109.8,82255,40,Male,233.84,High,Australia
+210687,8546,Storage Box,5,1/8/2021 9:00,100.23,74757,54,Female,136.24,Low,United Kingdom
+974371,1077,Wireless Mouse,5,1/8/2021 10:00,107.77,51203,26,Female,129.27,Medium,United Kingdom
+511357,8577,Notebook,3,1/8/2021 11:00,6.21,35081,32,Male,6.89,High,Australia
+835716,5227,Wall Clock,7,1/8/2021 12:00,36.56,71861,20,Male,85.3,Medium,Australia
+205878,1600,Water Bottle,6,1/8/2021 13:00,100.94,21350,46,Male,263.97,Medium,United Kingdom
+827270,2065,Storage Box,4,1/8/2021 14:00,75.18,65512,23,Male,151.67,Medium,Australia
+298286,3136,Wall Clock,2,1/8/2021 15:00,5.77,66809,34,Female,6.4,Medium,Australia
+873290,7943,Water Bottle,9,1/8/2021 16:00,121.65,52832,43,Female,251.93,High,Canada
+874684,8804,Ceramic Mug,1,1/8/2021 17:00,117.06,38369,38,Female,336.14,High,Australia
+264899,7565,Bluetooth Speaker,4,1/8/2021 18:00,84.52,41728,25,Male,185.54,Low,Australia
+424767,6984,Wireless Mouse,1,1/8/2021 19:00,14.64,27576,38,Male,38.34,High,Australia
+961882,6142,Desk Organizer,6,1/8/2021 20:00,116.14,39001,28,Male,302,High,United Kingdom
+979858,5670,Water Bottle,4,1/8/2021 21:00,89.64,93384,55,Male,256.75,Medium,Australia
+479989,3190,Desk Organizer,5,1/8/2021 22:00,118.38,10390,25,Female,300.74,High,USA
+515515,3712,Bluetooth Speaker,5,1/8/2021 23:00,114,97535,59,Female,284.48,Medium,Canada
+143585,3192,Home Decor Lamp,9,1/9/2021 0:00,121.44,55436,41,Male,178.3,High,Australia
+471369,2248,Notebook,1,1/9/2021 1:00,80.11,21569,52,Female,89.71,High,Australia
+164044,5033,Wireless Mouse,2,1/9/2021 2:00,25.35,23029,31,Male,51.59,Low,Australia
+542296,2997,Bluetooth Speaker,6,1/9/2021 3:00,102.32,32490,31,Male,127.78,Medium,United Kingdom
+209556,4687,Bluetooth Speaker,5,1/9/2021 4:00,94.97,55875,27,Female,277.73,Medium,Canada
+626981,5018,Ceramic Mug,7,1/9/2021 5:00,112.63,15867,29,Male,177.94,Medium,United Kingdom
+981691,2970,Wall Clock,3,1/9/2021 6:00,29.63,90820,55,Male,80.18,Low,Australia
+867595,9389,Notebook,3,1/9/2021 7:00,33.27,19121,51,Female,59.06,High,United Kingdom
+300235,6765,Wireless Mouse,2,1/9/2021 8:00,134.11,11539,58,Female,220.8,Low,Australia
+125939,2202,Home Decor Lamp,3,1/9/2021 9:00,113.75,27027,27,Male,326.5,Medium,Canada
+252906,9135,Home Decor Lamp,1,1/9/2021 10:00,136.69,84229,34,Male,236.02,High,United Kingdom
+642335,6567,LED Light Strip,5,1/9/2021 11:00,115.01,18921,34,Female,204.78,Low,Australia
+388249,8667,Bluetooth Speaker,5,1/9/2021 12:00,91.59,60435,20,Female,111.02,High,Australia
+175766,6742,Water Bottle,7,1/9/2021 13:00,99.85,20310,48,Female,233.74,High,Canada
+508923,6788,Ceramic Mug,4,1/9/2021 14:00,133.92,73965,18,Male,211.28,Medium,Canada
+515192,6408,Notebook,3,1/9/2021 15:00,88.93,79922,29,Female,193.09,Medium,Australia
+668550,9669,Home Decor Lamp,1,1/9/2021 16:00,96.7,92839,56,Male,211.07,Low,Australia
+487261,1922,Wireless Mouse,8,1/9/2021 17:00,27.69,22242,21,Female,67.52,High,United Kingdom
+910208,1419,LED Light Strip,3,1/9/2021 18:00,73.72,18947,59,Male,183.6,Low,Australia
+785440,3204,Wireless Mouse,2,1/9/2021 19:00,108.88,81466,30,Female,220.91,High,Australia
+752664,2120,Ceramic Mug,4,1/9/2021 20:00,44.29,71816,51,Male,73.61,High,Australia
+554589,1950,Water Bottle,3,1/9/2021 21:00,34.33,58785,59,Male,91.83,Low,Australia
+237848,3336,LED Light Strip,1,1/9/2021 22:00,50.5,10507,38,Male,81.8,High,United Kingdom
+717075,6373,LED Light Strip,3,1/9/2021 23:00,40.02,76972,39,Male,80.64,Low,USA
+227948,3243,Wall Clock,2,1/10/2021 0:00,36.16,37151,21,Female,65.18,High,United Kingdom
+679304,3645,Notebook,8,1/10/2021 1:00,66.6,21618,35,Female,180.5,Low,Australia
+502690,5612,LED Light Strip,6,1/10/2021 2:00,136.64,84286,22,Female,254.67,High,United Kingdom
+599046,2865,Wall Clock,9,1/10/2021 3:00,78.52,26122,36,Male,139.15,Medium,Australia
+551269,7028,Wall Clock,8,1/10/2021 4:00,32.25,17354,19,Female,76.74,High,Australia
+121959,8326,Ceramic Mug,3,1/10/2021 5:00,16.16,40979,29,Female,35.63,Medium,USA
+760890,7371,Desk Organizer,5,1/10/2021 6:00,105.94,96436,34,Male,128.66,Low,Australia
+850216,7359,Wireless Mouse,7,1/10/2021 7:00,60.51,89376,27,Male,122.01,Medium,USA
+890180,8863,Water Bottle,5,1/10/2021 8:00,124.17,62774,51,Female,306.82,Medium,Australia
+328576,4228,Storage Box,8,1/10/2021 9:00,100.63,15037,23,Female,300.29,High,United Kingdom
+637833,4719,Wireless Mouse,5,1/10/2021 10:00,120.46,38633,25,Female,272.03,High,Australia
+265838,3371,LED Light Strip,1,1/10/2021 11:00,44.43,34495,28,Male,77.33,Medium,Australia
+435674,3891,Water Bottle,5,1/10/2021 12:00,105.39,74550,29,Male,153.06,Medium,Australia
+979989,4756,Home Decor Lamp,4,1/10/2021 13:00,43.29,91384,26,Male,118.86,Low,Canada
+161087,5225,Desk Organizer,6,1/10/2021 14:00,141.16,46483,19,Female,371.13,Medium,Canada
+693128,1094,Home Decor Lamp,3,1/10/2021 15:00,97.27,83373,25,Female,142.78,Medium,Canada
+218451,3674,Home Decor Lamp,5,1/10/2021 16:00,52.05,44069,28,Male,72.94,Medium,Canada
+547600,7898,Notebook,2,1/10/2021 17:00,44.08,17370,53,Female,107.13,Low,Canada
+937437,1793,Wireless Mouse,6,1/10/2021 18:00,32.68,81947,27,Male,53.27,Medium,Australia
+539792,3116,Storage Box,6,1/10/2021 19:00,105.72,49133,38,Female,170.5,High,Australia
+139353,6779,Ceramic Mug,5,1/10/2021 20:00,36.71,10692,37,Male,47.89,Medium,United Kingdom
+293075,7166,Storage Box,6,1/10/2021 21:00,91.32,38926,25,Male,139.53,Medium,United Kingdom
+314283,1814,Home Decor Lamp,7,1/10/2021 22:00,43.37,83984,53,Male,80.45,High,Canada
+414877,1345,LED Light Strip,5,1/10/2021 23:00,100.99,53390,46,Male,249.01,High,Australia
+165318,9554,Desk Organizer,1,1/11/2021 0:00,123.17,59593,59,Male,206.02,Medium,Australia
+865313,3443,Bluetooth Speaker,8,1/11/2021 1:00,117.81,85609,29,Female,195.24,High,USA
+582690,8783,Storage Box,4,1/11/2021 2:00,115.32,15209,31,Female,181.03,High,United Kingdom
+516880,1984,Home Decor Lamp,9,1/11/2021 3:00,32.22,16533,38,Female,63.04,Low,Australia
+691460,8790,Desk Organizer,6,1/11/2021 4:00,17.82,96597,39,Male,24.26,Medium,Canada
+840976,1827,Water Bottle,1,1/11/2021 5:00,106.35,17211,38,Male,209.64,Low,USA
+881239,4531,Wireless Mouse,3,1/11/2021 6:00,58.41,19927,47,Male,140.67,Medium,Australia
+193264,8147,Wall Clock,3,1/11/2021 7:00,67.69,87463,56,Female,71.72,Medium,Canada
+870746,5451,Notebook,4,1/11/2021 8:00,9.52,34594,37,Male,9.71,High,USA
+913168,4876,Desk Organizer,6,1/11/2021 9:00,42.64,84852,41,Female,49.05,Low,USA
+325281,6959,LED Light Strip,7,1/11/2021 10:00,9.88,87713,40,Female,20.46,Medium,USA
+737147,1126,LED Light Strip,4,1/11/2021 11:00,132.48,86382,24,Male,358.88,Medium,United Kingdom
+998613,4177,Desk Organizer,6,1/11/2021 12:00,40.29,17933,26,Male,40.68,Medium,Australia
+494070,9795,LED Light Strip,1,1/11/2021 13:00,85.81,50696,18,Male,246.56,High,Australia
+452228,7024,Wireless Mouse,8,1/11/2021 14:00,10.65,75449,43,Male,12.91,Medium,Australia
+531839,6109,LED Light Strip,7,1/11/2021 15:00,101.69,77616,55,Female,272.93,High,Australia
+369536,5146,Storage Box,9,1/11/2021 16:00,51.84,16089,55,Female,101.9,Medium,Australia
+417824,8196,Wall Clock,3,1/11/2021 17:00,135.2,66548,39,Male,313.49,Medium,Australia
+357426,4368,LED Light Strip,2,1/11/2021 18:00,133.78,36123,27,Female,270.42,High,Australia
+277789,4797,Wall Clock,1,1/11/2021 19:00,52.17,17797,23,Female,101.95,Medium,Australia
+613153,2792,Home Decor Lamp,3,1/11/2021 20:00,135.64,60013,34,Female,362.13,Low,Canada
+842452,6732,Ceramic Mug,5,1/11/2021 21:00,149.44,18346,55,Male,375.36,High,Australia
+937291,4476,Wireless Mouse,2,1/11/2021 22:00,124.69,95414,41,Male,245.24,Medium,United Kingdom
+225657,4417,Ceramic Mug,3,1/11/2021 23:00,127.51,43672,27,Male,155.98,High,United Kingdom
+335167,2645,Home Decor Lamp,4,1/12/2021 0:00,41.11,27653,25,Female,50.6,High,Australia
+781669,4030,Wireless Mouse,7,1/12/2021 1:00,88.62,59556,38,Male,230.68,Medium,USA
+580671,3872,Desk Organizer,3,1/12/2021 2:00,14.75,36140,23,Male,30.37,Medium,United Kingdom
+819094,4072,Desk Organizer,9,1/12/2021 3:00,18.76,11184,38,Female,36.83,Medium,Australia
+170467,2854,Wall Clock,8,1/12/2021 4:00,149.84,44493,56,Female,353.79,Medium,Australia
+283734,5021,Home Decor Lamp,4,1/12/2021 5:00,52.36,54148,41,Female,142.3,High,Australia
+722794,5662,Wall Clock,1,1/12/2021 6:00,113.49,34846,50,Male,256.23,High,Australia
+209751,7514,Notebook,1,1/12/2021 7:00,121.97,32195,35,Male,308.06,Medium,Australia
+481050,6031,LED Light Strip,1,1/12/2021 8:00,129.41,15606,45,Female,327.48,Low,United Kingdom
+911774,3708,Bluetooth Speaker,1,1/12/2021 9:00,149.66,13956,49,Male,256.3,Medium,Canada
+792517,8112,Notebook,8,1/12/2021 10:00,40.02,26555,29,Male,61.96,Medium,United Kingdom
+561079,9393,LED Light Strip,3,1/12/2021 11:00,10.85,28690,59,Male,28.24,High,Australia
+468452,4507,Wireless Mouse,6,1/12/2021 12:00,64.62,68502,44,Male,113.37,Low,Australia
+206081,7456,Wall Clock,3,1/12/2021 13:00,23.86,58849,27,Male,66.97,High,Australia
+713333,5212,Wireless Mouse,5,1/12/2021 14:00,8.25,36347,59,Female,9.4,High,Australia
+658986,8970,Wireless Mouse,7,1/12/2021 15:00,57.26,59056,49,Female,63.93,High,Australia
+210078,9766,LED Light Strip,2,1/12/2021 16:00,118.64,73851,59,Female,338.6,Medium,Canada
+967055,1536,Home Decor Lamp,6,1/12/2021 17:00,87.1,91502,43,Male,200.06,High,Australia
+122671,2625,LED Light Strip,6,1/12/2021 18:00,50.35,91418,42,Male,88.58,High,Canada
+518400,8973,Water Bottle,3,1/12/2021 19:00,99.88,80211,28,Male,250.71,High,Australia
+455528,9577,Desk Organizer,6,1/12/2021 20:00,38.64,51850,40,Female,90.6,Medium,USA
+710490,9070,Desk Organizer,5,1/12/2021 21:00,7.09,88545,51,Male,14.62,Medium,United Kingdom
+151663,9666,Notebook,2,1/12/2021 22:00,115.83,37843,57,Female,138.73,High,Canada
+115708,9609,Desk Organizer,9,1/12/2021 23:00,95.44,72320,40,Female,250.47,Low,Australia
+978338,7490,LED Light Strip,8,1/13/2021 0:00,115.53,39793,46,Male,315.63,Medium,Canada
+411955,4600,Storage Box,3,1/13/2021 1:00,10.65,49516,48,Male,14.32,High,Canada
+233883,7783,Wall Clock,8,1/13/2021 2:00,126.38,27857,24,Female,341.36,Low,United Kingdom
+418394,5971,LED Light Strip,9,1/13/2021 3:00,94.83,29627,57,Female,261.32,Medium,United Kingdom
+212547,2205,LED Light Strip,3,1/13/2021 4:00,86.69,71822,50,Male,181.95,Medium,Canada
+659042,2990,Bluetooth Speaker,3,1/13/2021 5:00,95.57,94101,38,Male,220.99,High,Australia
+851102,6299,Wall Clock,2,1/13/2021 6:00,130.34,62248,19,Female,229.98,Low,United Kingdom
+862002,4572,Water Bottle,8,1/13/2021 7:00,90.11,65798,35,Male,140.89,High,Canada
+242483,6975,Desk Organizer,1,1/13/2021 8:00,89.24,54116,50,Male,218.1,Low,Australia
+758271,7320,Wall Clock,8,1/13/2021 9:00,148.65,85318,54,Male,404.89,Low,Australia
+314835,5380,Desk Organizer,7,1/13/2021 10:00,114.73,97902,51,Male,264.81,High,Australia
+501896,5757,Notebook,7,1/13/2021 11:00,69.13,38557,37,Male,139.86,Medium,Canada
+184896,3713,Wall Clock,3,1/13/2021 12:00,107.57,81334,52,Male,141.76,High,Australia
+577095,6588,Desk Organizer,1,1/13/2021 13:00,61.44,85163,35,Male,68.01,Low,Australia
+171295,1966,Water Bottle,4,1/13/2021 14:00,38.19,88002,41,Male,72.23,Medium,Australia
+843974,5944,Ceramic Mug,9,1/13/2021 15:00,91.54,52614,25,Female,100.57,Low,Canada
+987121,4432,Wireless Mouse,5,1/13/2021 16:00,139.59,22720,47,Female,298.54,Medium,Australia
+373255,1688,Wireless Mouse,1,1/13/2021 17:00,139.73,67608,27,Female,246.69,High,United Kingdom
+399648,5243,Water Bottle,5,1/13/2021 18:00,54.58,82095,40,Female,137.23,High,Australia
+757162,4701,Bluetooth Speaker,8,1/13/2021 19:00,81.51,94694,28,Male,131.34,Low,Canada
+108155,9533,Ceramic Mug,8,1/13/2021 20:00,35.69,97593,19,Male,78.02,Medium,USA
+566872,6182,Notebook,5,1/13/2021 21:00,149.37,45892,43,Female,310,High,Australia
+925816,7704,Water Bottle,9,1/13/2021 22:00,147.26,87242,53,Male,148.65,Low,Australia
+474705,5422,Wireless Mouse,1,1/13/2021 23:00,99.18,87606,50,Male,113.54,Low,Canada
+671542,2759,Wireless Mouse,4,1/14/2021 0:00,121.64,10924,30,Female,192.28,High,Australia
+908350,3482,Wireless Mouse,3,1/14/2021 1:00,108.69,61322,57,Male,300.47,High,Australia
+710269,9058,Home Decor Lamp,2,1/14/2021 2:00,91.01,36478,42,Male,117.77,High,Canada
+654594,1951,Water Bottle,8,1/14/2021 3:00,12.74,81042,21,Female,30.85,High,USA
+247718,9914,LED Light Strip,7,1/14/2021 4:00,70.94,56418,59,Female,209.04,High,United Kingdom
+408987,3079,Notebook,9,1/14/2021 5:00,102.84,72217,36,Male,265.44,Medium,Australia
+745263,3717,Wireless Mouse,2,1/14/2021 6:00,103.24,90846,35,Female,153.4,Low,Australia
+458745,5524,Desk Organizer,4,1/14/2021 7:00,59.1,83762,54,Female,166.47,Low,Australia
+207512,9477,Water Bottle,6,1/14/2021 8:00,141.55,21781,47,Female,167.91,High,Canada
+247443,8311,Home Decor Lamp,3,1/14/2021 9:00,29.27,15515,36,Male,56.68,High,Canada
+570587,8186,Water Bottle,8,1/14/2021 10:00,77.55,46133,40,Male,215.21,High,Canada
+473616,3065,Notebook,3,1/14/2021 11:00,105.18,92508,33,Female,240.08,High,Australia
+757409,1768,Home Decor Lamp,2,1/14/2021 12:00,106.08,86946,18,Female,193.84,High,United Kingdom
+786976,6490,Notebook,3,1/14/2021 13:00,99.05,95058,29,Female,157.06,High,Australia
+465871,7645,Water Bottle,6,1/14/2021 14:00,44.92,19095,41,Male,78.62,Low,Australia
+475037,6083,LED Light Strip,2,1/14/2021 15:00,27.65,98583,51,Male,55.79,High,Canada
+907364,6232,Notebook,8,1/14/2021 16:00,97.21,30470,25,Female,159.24,Medium,Australia
+217796,6797,Home Decor Lamp,1,1/14/2021 17:00,91.9,53129,35,Male,270,Medium,United Kingdom
+391999,5926,Home Decor Lamp,7,1/14/2021 18:00,31.01,18531,22,Male,88.88,High,United Kingdom
+292506,7016,Notebook,2,1/14/2021 19:00,107.25,47038,43,Male,294.01,High,USA
+798376,4335,Storage Box,6,1/14/2021 20:00,71,97939,47,Male,130.9,Low,Canada
+369544,9038,Water Bottle,2,1/14/2021 21:00,101.83,52674,30,Female,242.62,Low,Canada
+480002,5873,Storage Box,2,1/14/2021 22:00,126.42,92476,36,Female,354.69,High,United Kingdom
+798002,2481,Bluetooth Speaker,8,1/14/2021 23:00,29.61,39831,46,Male,79.97,High,Australia
+639439,7305,Water Bottle,2,1/15/2021 0:00,7.78,67174,20,Male,14.23,High,Australia
+690978,4451,Notebook,7,1/15/2021 1:00,117.97,21279,43,Female,144.49,Low,United Kingdom
+628787,1054,Ceramic Mug,3,1/15/2021 2:00,93.41,48220,57,Male,107.54,Low,United Kingdom
+630583,8643,Notebook,8,1/15/2021 3:00,106.45,70610,29,Male,229.31,Medium,United Kingdom
+488215,4462,Storage Box,7,1/15/2021 4:00,126.53,62719,19,Female,289.15,Low,Australia
+421184,1832,LED Light Strip,8,1/15/2021 5:00,121.41,63051,28,Male,327.77,Low,Australia
+898615,6954,Notebook,7,1/15/2021 6:00,144.33,82013,45,Female,228.77,High,Australia
+522515,9519,Notebook,6,1/15/2021 7:00,82.71,66652,35,Male,110.41,Medium,United Kingdom
+768234,8221,LED Light Strip,7,1/15/2021 8:00,75.83,75524,30,Female,133.31,Medium,United Kingdom
+478480,4310,Notebook,5,1/15/2021 9:00,63.27,92936,54,Male,108.01,Low,United Kingdom
+132711,4300,Wireless Mouse,7,1/15/2021 10:00,27.29,16470,39,Female,34.52,Medium,Australia
+891971,7722,Ceramic Mug,1,1/15/2021 11:00,88.03,77598,29,Male,206.39,High,Australia
+601157,8218,Desk Organizer,1,1/15/2021 12:00,45.17,51798,19,Male,91.13,High,Canada
+284423,8776,Ceramic Mug,9,1/15/2021 13:00,138.59,63473,54,Female,338.47,High,Canada
+616349,4675,Notebook,5,1/15/2021 14:00,89.56,29880,24,Male,152.73,Medium,Australia
+803714,4054,Wireless Mouse,5,1/15/2021 15:00,90.96,54439,43,Male,150.21,Medium,United Kingdom
+757917,8970,Water Bottle,3,1/15/2021 16:00,56.46,24308,43,Male,109.82,Medium,Australia
+924792,3143,Notebook,5,1/15/2021 17:00,12.54,45081,41,Female,34.55,Medium,Canada
+837378,6207,Storage Box,3,1/15/2021 18:00,9.6,85242,29,Male,10.37,High,Canada
+233272,3538,Wireless Mouse,9,1/15/2021 19:00,66.38,60383,33,Male,173.23,Medium,United Kingdom
+867836,5547,LED Light Strip,9,1/15/2021 20:00,17.26,19837,40,Female,30,High,United Kingdom
+802335,6619,Wireless Mouse,6,1/15/2021 21:00,92.99,62151,57,Male,251.93,Low,Australia
+907789,9356,LED Light Strip,1,1/15/2021 22:00,132.74,46824,26,Female,345.71,High,United Kingdom
+743409,7612,Bluetooth Speaker,7,1/15/2021 23:00,133.02,43073,49,Female,225.8,High,United Kingdom
+177505,6005,Desk Organizer,7,1/16/2021 0:00,100.56,36299,32,Female,240.11,High,United Kingdom
+102869,1822,Wall Clock,4,1/16/2021 1:00,35.63,68861,54,Female,47.01,Medium,United Kingdom
+881474,1943,Wireless Mouse,8,1/16/2021 2:00,130.13,40063,30,Female,363.4,High,Australia
+554351,7150,Home Decor Lamp,6,1/16/2021 3:00,133.48,79453,22,Male,241.46,High,USA
+412252,5425,Storage Box,4,1/16/2021 4:00,33.51,78472,28,Female,64.05,Medium,Canada
+736584,9966,Notebook,4,1/16/2021 5:00,111.93,24506,27,Male,269.92,Medium,Australia
+718467,3198,Storage Box,2,1/16/2021 6:00,46.55,89854,30,Male,122.97,High,United Kingdom
+190272,5242,Ceramic Mug,2,1/16/2021 7:00,121.38,36026,58,Female,178.75,High,Australia
+138467,4695,Wall Clock,4,1/16/2021 8:00,149.6,37672,32,Male,347.48,Medium,Australia
+909760,4452,Ceramic Mug,5,1/16/2021 9:00,9.35,48417,59,Female,16.68,Medium,Australia
+977844,2308,Bluetooth Speaker,8,1/16/2021 10:00,135.12,62413,24,Male,234.76,High,United Kingdom
+580047,5177,Wall Clock,6,1/16/2021 11:00,95.28,75066,57,Female,226.77,Low,Canada
+759347,9705,Wall Clock,4,1/16/2021 12:00,146.14,69213,45,Male,259.31,Medium,United Kingdom
+158871,7852,Ceramic Mug,7,1/16/2021 13:00,72.43,60971,49,Female,122.57,Low,United Kingdom
+228391,7035,LED Light Strip,8,1/16/2021 14:00,127.87,37281,52,Female,341.64,High,Australia
+539430,4594,Ceramic Mug,2,1/16/2021 15:00,14.05,38091,32,Female,16.9,Low,Australia
+710704,5841,Storage Box,7,1/16/2021 16:00,53.62,60494,53,Male,126.1,High,Australia
+956703,2409,LED Light Strip,2,1/16/2021 17:00,14.72,28610,38,Male,22.04,Low,Canada
+930496,5566,Storage Box,2,1/16/2021 18:00,146.42,11079,23,Male,150.96,High,USA
+356687,5491,Bluetooth Speaker,8,1/16/2021 19:00,123.46,56751,18,Female,164.64,High,Australia
+825451,2555,Notebook,2,1/16/2021 20:00,128.62,96126,21,Female,284.68,Medium,United Kingdom
+207450,1804,Water Bottle,9,1/16/2021 21:00,141,65432,28,Male,340.97,Medium,USA
+271890,2279,LED Light Strip,1,1/16/2021 22:00,17.34,40951,43,Female,18.07,Medium,Australia
+538741,8083,Bluetooth Speaker,9,1/16/2021 23:00,60.91,90863,54,Female,65.35,Medium,Canada
+381974,6986,Home Decor Lamp,1,1/17/2021 0:00,15.3,88291,40,Male,42.92,High,United Kingdom
+500109,6619,Bluetooth Speaker,2,1/17/2021 1:00,35.56,69872,46,Female,40.77,Medium,United Kingdom
+216381,2387,Ceramic Mug,6,1/17/2021 2:00,38.26,17235,38,Female,106.68,High,Australia
+573125,3679,Ceramic Mug,6,1/17/2021 3:00,73.02,92733,44,Male,106.34,Low,United Kingdom
+671621,3106,Water Bottle,1,1/17/2021 4:00,43.94,72712,56,Male,108.97,Low,Canada
+234508,9173,Bluetooth Speaker,7,1/17/2021 5:00,19.64,31473,57,Male,31.81,Medium,Australia
+829650,5223,Desk Organizer,8,1/17/2021 6:00,29.29,77567,30,Female,79.6,Medium,United Kingdom
+962645,5831,Notebook,2,1/17/2021 7:00,26.35,89823,40,Female,63.26,Medium,Australia
+499111,3768,Ceramic Mug,8,1/17/2021 8:00,146.1,42230,33,Female,263.51,High,Canada
+250810,4186,Water Bottle,9,1/17/2021 9:00,115.1,94573,47,Male,132.66,Low,United Kingdom
+392890,3573,Notebook,6,1/17/2021 10:00,145.33,78876,21,Male,358.3,Low,Canada
+673665,3599,Bluetooth Speaker,5,1/17/2021 11:00,68.76,50644,57,Male,153.59,High,Australia
+940477,5033,Bluetooth Speaker,9,1/17/2021 12:00,45.36,58664,33,Male,45.62,High,Australia
+460032,9428,Wall Clock,9,1/17/2021 13:00,120.75,55203,48,Female,123.02,Low,Australia
+469599,2304,Water Bottle,1,1/17/2021 14:00,52.31,76677,59,Female,136.93,High,Australia
+760960,8368,Ceramic Mug,3,1/17/2021 15:00,48.41,35425,42,Female,73.53,Medium,Australia
+850020,6877,Desk Organizer,9,1/17/2021 16:00,38.71,94817,29,Female,87.96,High,United Kingdom
+979611,2301,Bluetooth Speaker,2,1/17/2021 17:00,23.8,95961,43,Male,45.42,High,Australia
+271836,3541,Desk Organizer,4,1/17/2021 18:00,42.19,79806,54,Male,115.05,High,United Kingdom
+829903,3051,Bluetooth Speaker,4,1/17/2021 19:00,56.52,52814,50,Male,160.17,High,Australia
+145714,7809,Ceramic Mug,2,1/17/2021 20:00,102.73,80219,45,Female,307.53,Medium,United Kingdom
+727234,9633,Notebook,3,1/17/2021 21:00,14.07,59646,26,Female,18.39,High,Canada
+996048,9996,Wireless Mouse,3,1/17/2021 22:00,35.52,49884,29,Male,96.82,Medium,United Kingdom
+730271,1074,Notebook,1,1/17/2021 23:00,122.31,79322,22,Male,187.38,Low,USA
+566960,7981,Bluetooth Speaker,6,1/18/2021 0:00,26.3,31650,45,Male,57.38,Medium,Australia
+811851,6475,Storage Box,8,1/18/2021 1:00,54.68,19190,52,Male,109.99,High,Australia
+224123,9232,Wireless Mouse,3,1/18/2021 2:00,130.38,48196,22,Male,135.07,High,Australia
+405628,8184,Wireless Mouse,5,1/18/2021 3:00,27.46,49449,51,Male,78.69,Low,Australia
+182989,6796,Desk Organizer,1,1/18/2021 4:00,17,49661,51,Male,19.66,High,United Kingdom
+398356,8141,Water Bottle,7,1/18/2021 5:00,75.26,39709,30,Female,178.85,High,Australia
+929957,2622,Desk Organizer,1,1/18/2021 6:00,48.85,90428,56,Female,125.55,Medium,United Kingdom
+278274,9041,Desk Organizer,9,1/18/2021 7:00,86.69,85179,59,Male,224.58,Medium,Australia
+787995,1341,Storage Box,8,1/18/2021 8:00,121.55,19943,31,Male,154.49,High,USA
+425352,3074,Notebook,7,1/18/2021 9:00,24.89,53240,28,Male,47.17,Medium,USA
+920260,8992,Notebook,7,1/18/2021 10:00,89.2,55760,59,Male,237.17,Low,Australia
+511927,1645,Home Decor Lamp,5,1/18/2021 11:00,78.3,31042,55,Male,125.7,High,Australia
+889852,5263,Bluetooth Speaker,5,1/18/2021 12:00,25.89,53894,21,Male,50.11,High,Canada
+983184,9801,Storage Box,5,1/18/2021 13:00,95.48,16869,50,Female,147.57,High,USA
+231373,7136,Home Decor Lamp,1,1/18/2021 14:00,44.68,71078,24,Female,86.1,High,Australia
+538452,9646,Ceramic Mug,8,1/18/2021 15:00,75.74,66759,58,Male,210.23,Medium,Australia
+215294,3969,Bluetooth Speaker,1,1/18/2021 16:00,16.93,54306,25,Female,32.34,Low,USA
+559451,4028,Bluetooth Speaker,4,1/18/2021 17:00,71.64,65371,54,Male,151.29,High,Canada
+748307,8643,Wall Clock,9,1/18/2021 18:00,49.44,30918,27,Male,89.39,Medium,Australia
+165726,3681,Wall Clock,9,1/18/2021 19:00,124.25,38379,32,Female,238.59,High,United Kingdom
+241564,4629,LED Light Strip,5,1/18/2021 20:00,13.26,93232,55,Female,13.66,Low,USA
+477812,5225,LED Light Strip,4,1/18/2021 21:00,65.7,12962,32,Female,102.98,Medium,Canada
+368246,4067,Desk Organizer,3,1/18/2021 22:00,71.47,23851,22,Female,133.87,Medium,Canada
+805696,6941,Ceramic Mug,3,1/18/2021 23:00,110.13,55747,46,Female,249.73,High,Canada
+218015,2386,Wireless Mouse,5,1/19/2021 0:00,88.27,62349,36,Female,167.72,Low,Australia
+840674,3866,Wireless Mouse,1,1/19/2021 1:00,101.75,80832,27,Female,170.5,Low,Canada
+354079,5788,Wall Clock,5,1/19/2021 2:00,117.67,66356,29,Male,209.01,Low,Australia
+650929,6490,Wall Clock,6,1/19/2021 3:00,130.02,24745,21,Female,193.03,High,USA
+789944,5124,Wall Clock,7,1/19/2021 4:00,50.51,15730,48,Female,143.9,Low,Australia
+788105,9340,Storage Box,9,1/19/2021 5:00,83.01,23921,35,Female,169.63,Low,Canada
+613758,4850,Water Bottle,3,1/19/2021 6:00,126.82,81138,33,Male,130.22,Low,Australia
+465890,6415,LED Light Strip,2,1/19/2021 7:00,148.47,93111,57,Female,154.24,High,United Kingdom
+545101,8679,Storage Box,3,1/19/2021 8:00,133.98,29023,53,Male,394.69,Low,Australia
+136631,7819,Notebook,9,1/19/2021 9:00,58.86,55349,42,Male,84.93,Medium,United Kingdom
+866577,9378,Wireless Mouse,7,1/19/2021 10:00,33.3,91533,40,Male,86.95,Medium,Canada
+172991,2333,Bluetooth Speaker,9,1/19/2021 11:00,75.96,93286,29,Female,84.81,Medium,Canada
+104014,5150,LED Light Strip,2,1/19/2021 12:00,112.54,51979,51,Female,319.88,High,United Kingdom
+373237,7766,Home Decor Lamp,5,1/19/2021 13:00,76.42,32837,53,Male,210.07,Medium,Australia
+118070,3711,Notebook,4,1/19/2021 14:00,75.06,24997,54,Male,160.79,High,USA
+922209,5853,LED Light Strip,2,1/19/2021 15:00,126.54,98603,20,Male,128.82,High,Canada
+156958,7212,Storage Box,9,1/19/2021 16:00,57.4,55039,26,Female,87,Medium,Canada
+182074,8479,Ceramic Mug,9,1/19/2021 17:00,129.67,30923,35,Male,235.18,High,Canada
+635017,6408,Bluetooth Speaker,6,1/19/2021 18:00,63.99,18876,52,Male,122.87,High,Canada
+855073,8715,LED Light Strip,6,1/19/2021 19:00,52.59,70973,51,Male,83.9,High,Australia
+276089,9942,Water Bottle,8,1/19/2021 20:00,70.83,12887,58,Male,75.5,Medium,Canada
+297392,2762,Wall Clock,6,1/19/2021 21:00,115.55,73723,31,Male,251.93,Medium,United Kingdom
+258823,8101,Wall Clock,1,1/19/2021 22:00,23.27,52422,21,Female,47.66,Medium,Canada
+730152,8674,Bluetooth Speaker,4,1/19/2021 23:00,33.48,61413,46,Male,52.43,High,Canada
+493002,7122,Storage Box,7,1/20/2021 0:00,142.96,12841,58,Female,153.82,Low,Australia
+833429,1481,Wall Clock,2,1/20/2021 1:00,30.45,38756,32,Male,91.02,Low,Australia
+598863,1153,LED Light Strip,9,1/20/2021 2:00,87.32,81576,45,Male,171.49,Medium,Australia
+467654,8617,Home Decor Lamp,8,1/20/2021 3:00,89,20304,59,Male,223.57,Low,Australia
+679036,2524,Wireless Mouse,8,1/20/2021 4:00,76,40341,33,Female,144.75,Medium,United Kingdom
+630089,3120,Wireless Mouse,7,1/20/2021 5:00,98.49,14758,29,Female,106.99,Low,Canada
+250262,3343,Notebook,4,1/20/2021 6:00,38.32,27010,22,Female,62.05,Medium,Australia
+542905,6136,Desk Organizer,2,1/20/2021 7:00,85.14,70758,51,Female,139.65,High,Australia
+335362,6760,Ceramic Mug,3,1/20/2021 8:00,58.97,41658,59,Male,157.85,Medium,USA
+544209,2240,Bluetooth Speaker,6,1/20/2021 9:00,100.94,59002,18,Female,233.02,High,Canada
+653880,1060,Notebook,5,1/20/2021 10:00,25.48,11375,56,Female,39.52,Low,United Kingdom
+897079,2639,Desk Organizer,8,1/20/2021 11:00,87.78,32092,49,Male,257.68,Low,Canada
+764076,7185,Storage Box,6,1/20/2021 12:00,31.86,10490,43,Female,52.35,High,United Kingdom
+319963,8970,Water Bottle,6,1/20/2021 13:00,45.4,13729,34,Male,136.04,High,Australia
+580761,2252,Water Bottle,1,1/20/2021 14:00,36.71,15974,44,Male,109.85,Medium,Australia
+348710,5203,Ceramic Mug,4,1/20/2021 15:00,31.51,95216,41,Male,43.56,High,Australia
+320984,9363,Wall Clock,5,1/20/2021 16:00,124.73,93860,52,Male,202.75,High,Australia
+997059,4549,LED Light Strip,3,1/20/2021 17:00,46.43,31398,59,Male,91.56,High,USA
+956748,5197,Notebook,9,1/20/2021 18:00,139.43,44650,56,Male,324.62,Medium,Canada
+882355,8009,Notebook,1,1/20/2021 19:00,145.64,31292,43,Male,299.45,Low,Australia
+364512,7667,Bluetooth Speaker,6,1/20/2021 20:00,87.83,13159,55,Male,258.12,High,Australia
+701863,3322,Bluetooth Speaker,6,1/20/2021 21:00,25.74,72766,40,Female,63.01,High,Australia
+368799,5090,Water Bottle,5,1/20/2021 22:00,59.31,27065,39,Female,84.46,Low,Canada
+337549,7960,Water Bottle,5,1/20/2021 23:00,120.67,31638,21,Male,146.03,High,Canada
+694319,4004,Home Decor Lamp,5,1/21/2021 0:00,58.27,11073,26,Male,138.5,Low,Australia
+584299,6136,Home Decor Lamp,6,1/21/2021 1:00,17.62,56511,21,Male,23.2,Medium,Australia
+712210,1329,Wall Clock,8,1/21/2021 2:00,85.73,94307,24,Female,220.79,Medium,United Kingdom
+548982,4640,Home Decor Lamp,2,1/21/2021 3:00,127.54,39320,40,Male,206.88,High,United Kingdom
+224046,8982,LED Light Strip,6,1/21/2021 4:00,120.41,79876,19,Male,199.13,Medium,Australia
+506619,5107,LED Light Strip,1,1/21/2021 5:00,30.39,44924,41,Male,31.05,High,United Kingdom
+132097,2341,Notebook,4,1/21/2021 6:00,102.55,91720,57,Female,246.33,Medium,United Kingdom
+766326,9407,Wireless Mouse,3,1/21/2021 7:00,36.97,50734,48,Male,45.35,High,Australia
+749150,1338,LED Light Strip,9,1/21/2021 8:00,36.64,78116,48,Male,93.28,High,Australia
+330229,6895,Desk Organizer,3,1/21/2021 9:00,131.74,50025,57,Male,261.34,High,Australia
+218834,3708,Water Bottle,6,1/21/2021 10:00,41.2,12159,51,Male,105.82,High,Canada
+193848,2750,Bluetooth Speaker,1,1/21/2021 11:00,43.17,58940,41,Female,93.59,Low,USA
+152921,6604,Home Decor Lamp,6,1/21/2021 12:00,5.09,89436,43,Female,5.93,Medium,Canada
+805086,3421,Notebook,4,1/21/2021 13:00,131.25,86976,33,Female,332.23,Low,Canada
+750429,8119,Ceramic Mug,8,1/21/2021 14:00,119.93,24678,30,Female,136.67,Medium,United Kingdom
+805660,9901,Bluetooth Speaker,9,1/21/2021 15:00,95.96,71075,32,Male,187.83,High,United Kingdom
+384821,6319,Desk Organizer,4,1/21/2021 16:00,113.79,57204,44,Female,153.01,Low,USA
+155609,7609,Home Decor Lamp,6,1/21/2021 17:00,27.05,22021,21,Female,67.75,Medium,Australia
+327897,6387,Desk Organizer,1,1/21/2021 18:00,71.46,16772,33,Male,201.74,Medium,United Kingdom
+131024,4993,Water Bottle,4,1/21/2021 19:00,55.93,77163,47,Female,117.91,Medium,United Kingdom
+170313,9680,Water Bottle,7,1/21/2021 20:00,18.6,83755,47,Male,38.21,Medium,United Kingdom
+489957,9044,Wall Clock,1,1/21/2021 21:00,75.49,33464,53,Male,190.83,High,Australia
+284078,9238,Notebook,8,1/21/2021 22:00,138.51,61137,20,Female,139.92,Low,United Kingdom
+457429,5873,Bluetooth Speaker,6,1/21/2021 23:00,10.81,40232,39,Female,30.65,Medium,Canada
+561243,5806,Storage Box,5,1/22/2021 0:00,47.26,71497,39,Female,65.92,High,Australia
+213632,9592,Storage Box,9,1/22/2021 1:00,35.09,84024,29,Male,104.16,High,Canada
+351451,6913,Bluetooth Speaker,2,1/22/2021 2:00,39.53,61448,38,Female,97.74,Medium,Australia
+103051,8124,Ceramic Mug,5,1/22/2021 3:00,136.72,94517,21,Male,348.43,High,USA
+804107,4157,Notebook,6,1/22/2021 4:00,72.87,10901,48,Male,168.51,Medium,United Kingdom
+476836,1390,Desk Organizer,7,1/22/2021 5:00,72.61,97980,48,Female,141.1,Medium,United Kingdom
+711523,5430,Ceramic Mug,5,1/22/2021 6:00,115.28,93597,40,Female,247.07,Low,Australia
+821772,9820,Wireless Mouse,9,1/22/2021 7:00,27.4,12881,37,Male,29.94,Medium,Australia
+289407,8686,Bluetooth Speaker,1,1/22/2021 8:00,75.65,39863,32,Female,170.06,High,United Kingdom
+549395,5232,Desk Organizer,7,1/22/2021 9:00,67.35,15622,40,Male,151.69,Low,Australia
+562894,9007,Storage Box,7,1/22/2021 10:00,91.55,11378,45,Male,254.73,Medium,United Kingdom
+311810,2521,LED Light Strip,4,1/22/2021 11:00,149.94,93168,33,Male,301.58,High,Australia
+827975,2500,Wall Clock,9,1/22/2021 12:00,116.57,81186,54,Female,134.56,Medium,Canada
+173523,7737,Storage Box,5,1/22/2021 13:00,62.69,55201,38,Male,101.08,Low,Canada
+860463,4294,Notebook,4,1/22/2021 14:00,125,69251,32,Female,288.91,High,Australia
+194476,6085,Water Bottle,7,1/22/2021 15:00,29.75,82572,34,Male,43.99,Low,United Kingdom
+333841,3419,LED Light Strip,4,1/22/2021 16:00,9.42,49255,54,Female,14.71,High,Canada
+903451,4042,Wall Clock,3,1/22/2021 17:00,34.65,73212,30,Male,91.51,Low,United Kingdom
+970045,5497,Wall Clock,9,1/22/2021 18:00,54.36,60210,36,Female,117.89,High,Australia
+322866,2466,Wireless Mouse,8,1/22/2021 19:00,79.03,32499,47,Male,159.41,Medium,United Kingdom
+186672,4561,Wireless Mouse,1,1/22/2021 20:00,94.19,61628,35,Female,154.18,High,Australia
+698135,1614,Home Decor Lamp,7,1/22/2021 21:00,137.04,71360,31,Female,337.37,Low,Australia
+444894,6392,Storage Box,9,1/22/2021 22:00,78.93,14603,53,Female,124.35,High,Australia
+834994,8693,Storage Box,8,1/22/2021 23:00,77.68,95473,53,Male,192.19,Medium,United Kingdom
+128251,4223,Storage Box,8,1/23/2021 0:00,12.29,22632,37,Female,14.01,Medium,Australia
+727769,8138,Home Decor Lamp,6,1/23/2021 1:00,10.06,40607,36,Male,27.45,Medium,USA
+474710,3667,Ceramic Mug,4,1/23/2021 2:00,84.92,75756,24,Female,169.77,High,Australia
+650233,8980,Wall Clock,8,1/23/2021 3:00,68.54,56994,21,Female,128.65,High,Australia
+977284,1130,LED Light Strip,3,1/23/2021 4:00,126.68,73382,51,Male,281.49,Low,Australia
+132217,3983,Notebook,9,1/23/2021 5:00,28.3,80354,19,Male,63.63,Low,Australia
+108308,5278,Wall Clock,2,1/23/2021 6:00,8.62,66344,22,Male,10.9,High,United Kingdom
+368093,8126,Wireless Mouse,2,1/23/2021 7:00,70.11,63775,27,Female,176.15,Low,Australia
+283062,9230,Desk Organizer,7,1/23/2021 8:00,39.43,17349,49,Female,61.19,High,Australia
+494366,8694,Water Bottle,4,1/23/2021 9:00,12.19,81154,59,Male,34.25,High,Australia
+844840,7640,Home Decor Lamp,8,1/23/2021 10:00,110.07,37464,58,Male,290.11,High,Australia
+200235,6468,Bluetooth Speaker,9,1/23/2021 11:00,21.18,52624,30,Male,35.85,Low,Australia
+174740,1920,Desk Organizer,7,1/23/2021 12:00,93.21,47344,56,Male,243.79,Low,Canada
+478496,8564,Notebook,5,1/23/2021 13:00,45.75,93791,22,Male,78.36,High,United Kingdom
+953049,9684,Storage Box,8,1/23/2021 14:00,30.16,34299,27,Female,36.25,High,United Kingdom
+850201,9502,Wireless Mouse,4,1/23/2021 15:00,60.06,57975,27,Male,175.6,High,United Kingdom
+903328,9930,Wireless Mouse,2,1/23/2021 16:00,121.21,11462,55,Female,279.41,Low,United Kingdom
+277247,4241,Wireless Mouse,6,1/23/2021 17:00,61.85,91441,44,Female,118.27,Low,USA
+763165,1545,Storage Box,9,1/23/2021 18:00,113.86,91788,38,Male,204.44,Low,Australia
+629525,5346,Bluetooth Speaker,1,1/23/2021 19:00,23.2,50581,25,Female,38.27,High,Australia
+120056,4810,Home Decor Lamp,7,1/23/2021 20:00,117.05,81289,18,Male,346.81,Medium,Australia
+276615,8206,Desk Organizer,9,1/23/2021 21:00,39.36,24175,45,Male,49.97,Low,Australia
+287628,3032,Storage Box,9,1/23/2021 22:00,103.22,16191,56,Male,168.21,Low,Australia
+738836,9436,Notebook,3,1/23/2021 23:00,87.04,93434,31,Male,171.56,Medium,United Kingdom
+473632,1271,Home Decor Lamp,5,1/24/2021 0:00,139.73,94518,38,Male,273.31,High,Australia
+234415,4511,Notebook,8,1/24/2021 1:00,61.16,90158,47,Male,118.82,Medium,USA
+506716,2771,Home Decor Lamp,8,1/24/2021 2:00,14.59,76537,38,Male,19.72,Low,Australia
+546438,5361,Bluetooth Speaker,4,1/24/2021 3:00,7.78,57645,26,Male,10.04,Medium,Australia
+653663,8069,Water Bottle,1,1/24/2021 4:00,124.89,33283,34,Male,188.53,Medium,USA
+765022,1920,Notebook,1,1/24/2021 5:00,81.09,96971,22,Male,229.41,Low,Canada
+641252,9190,Storage Box,4,1/24/2021 6:00,117.41,69123,48,Male,143.96,Low,Australia
+737717,4430,Home Decor Lamp,6,1/24/2021 7:00,38.99,40024,57,Male,98.05,High,United Kingdom
+352764,5435,Wireless Mouse,8,1/24/2021 8:00,55.04,59630,55,Female,138.43,Low,Canada
+814998,4760,Wall Clock,6,1/24/2021 9:00,9.37,40734,36,Male,24.55,Low,Australia
+566882,3050,Wireless Mouse,9,1/24/2021 10:00,144.42,10515,53,Female,400.51,Medium,Australia
+840427,2165,Ceramic Mug,9,1/24/2021 11:00,101.84,76727,50,Male,155.42,High,Canada
+612153,9567,Water Bottle,2,1/24/2021 12:00,140.31,56216,30,Female,203.33,Medium,United Kingdom
+167215,3033,Water Bottle,1,1/24/2021 13:00,43.5,81833,31,Male,84,High,Australia
+955474,7467,Wireless Mouse,2,1/24/2021 14:00,93.66,68755,50,Female,143.32,Medium,United Kingdom
+244356,1145,Desk Organizer,5,1/24/2021 15:00,103.38,37856,46,Female,255.21,High,Australia
+303861,5388,Bluetooth Speaker,4,1/24/2021 16:00,51.04,83870,53,Male,115.96,Low,Canada
+455612,8832,Notebook,4,1/24/2021 17:00,127.98,34162,27,Female,351.94,High,Australia
+554605,9623,Storage Box,9,1/24/2021 18:00,142.34,16008,48,Male,165.89,Low,Canada
+109435,9896,Water Bottle,8,1/24/2021 19:00,133.3,17987,23,Male,377.26,Medium,United Kingdom
+547556,9173,Wireless Mouse,6,1/24/2021 20:00,112.16,72532,18,Female,177.96,High,Australia
+799438,3632,Wireless Mouse,1,1/24/2021 21:00,45.23,13332,24,Female,89.62,Medium,Australia
+965264,5494,Bluetooth Speaker,2,1/24/2021 22:00,45.83,76323,44,Male,86.03,High,Canada
+675581,9056,Bluetooth Speaker,6,1/24/2021 23:00,144.69,48990,38,Male,364.71,Medium,USA
+178781,8511,LED Light Strip,2,1/25/2021 0:00,6.49,19873,45,Female,11.95,High,Australia
+291475,2828,LED Light Strip,5,1/25/2021 1:00,108.83,92542,33,Female,314.2,High,Australia
+260196,5805,Desk Organizer,5,1/25/2021 2:00,107.41,95761,40,Female,301.29,High,United Kingdom
+326507,1806,Desk Organizer,6,1/25/2021 3:00,95.29,46444,37,Female,261.51,High,Canada
+406063,8486,Ceramic Mug,6,1/25/2021 4:00,148.57,45340,55,Male,169.74,High,Australia
+864121,9202,Desk Organizer,6,1/25/2021 5:00,50.22,15033,42,Female,136.02,High,United Kingdom
+876665,2868,Home Decor Lamp,2,1/25/2021 6:00,54.3,83324,45,Male,139.19,Medium,United Kingdom
+790607,8878,Bluetooth Speaker,3,1/25/2021 7:00,16.45,25689,22,Male,19.86,Low,Australia
+221172,6690,Storage Box,6,1/25/2021 8:00,69.21,97134,38,Male,84.08,High,Australia
+456902,8827,Home Decor Lamp,8,1/25/2021 9:00,42.85,10066,35,Female,51.52,High,Australia
+584963,6429,Notebook,1,1/25/2021 10:00,54.79,55246,23,Male,56.03,High,Canada
+555968,4564,Wireless Mouse,1,1/25/2021 11:00,126.01,17533,46,Female,264.28,High,United Kingdom
+418717,2389,Desk Organizer,2,1/25/2021 12:00,140.65,90639,36,Male,414.47,High,United Kingdom
+159101,8274,Wireless Mouse,6,1/25/2021 13:00,31.93,80152,50,Male,59.94,Low,Australia
+595972,1824,Water Bottle,9,1/25/2021 14:00,59.01,69658,18,Female,122.83,Low,Australia
+388790,3265,Ceramic Mug,4,1/25/2021 15:00,139.65,48498,20,Male,410,Medium,Canada
+990617,1936,Water Bottle,3,1/25/2021 16:00,13.96,21772,59,Male,21.08,Low,Australia
+647337,7402,Ceramic Mug,8,1/25/2021 17:00,18.39,99385,38,Male,49.96,Medium,United Kingdom
+834965,4845,LED Light Strip,9,1/25/2021 18:00,28.6,59036,52,Female,59.85,High,United Kingdom
+460260,2796,Wireless Mouse,5,1/25/2021 19:00,91.31,68531,58,Male,195.31,High,Australia
+983811,9245,Ceramic Mug,9,1/25/2021 20:00,26.82,22940,57,Male,45.23,Medium,Australia
+692673,8214,Wall Clock,2,1/25/2021 21:00,145.37,26932,20,Male,308.65,Low,Australia
+750419,1726,Home Decor Lamp,3,1/25/2021 22:00,69.77,66827,42,Male,79.98,Medium,Australia
+533374,3736,Ceramic Mug,7,1/25/2021 23:00,77.72,71431,55,Male,196.58,Medium,Canada
+820777,2913,Ceramic Mug,7,1/26/2021 0:00,40.77,34648,37,Male,63.98,Medium,Australia
+647577,8657,Home Decor Lamp,6,1/26/2021 1:00,73.29,42966,51,Male,203.4,Low,Australia
+472370,3466,Wireless Mouse,6,1/26/2021 2:00,100.98,37777,38,Female,175.27,Medium,Canada
+987225,8312,Wireless Mouse,2,1/26/2021 3:00,113.92,42567,40,Male,146.46,Medium,Australia
+371967,9194,Home Decor Lamp,6,1/26/2021 4:00,114.31,27174,23,Male,273.4,High,United Kingdom
+291232,8906,Water Bottle,4,1/26/2021 5:00,88.79,52598,30,Male,118.02,Low,Australia
+404119,5876,Wall Clock,3,1/26/2021 6:00,136.13,69199,40,Male,341.33,Low,Australia
+109540,8287,Storage Box,2,1/26/2021 7:00,123.52,23798,26,Female,362.68,Low,Australia
+640652,1892,Notebook,1,1/26/2021 8:00,114.77,75364,34,Male,293.71,Medium,Australia
+497827,5675,Wall Clock,5,1/26/2021 9:00,13.06,27558,19,Male,13.65,High,Canada
+651951,2933,Wireless Mouse,2,1/26/2021 10:00,6,71084,36,Female,13.2,High,United Kingdom
+151991,2380,Storage Box,2,1/26/2021 11:00,35.8,54237,36,Male,85.59,Medium,Australia
+288751,2290,LED Light Strip,7,1/26/2021 12:00,101.21,75497,24,Male,268.3,High,Australia
+466326,2640,Desk Organizer,8,1/26/2021 13:00,64.62,10178,59,Male,71.86,Medium,Australia
+786337,8490,Ceramic Mug,8,1/26/2021 14:00,63.35,96006,59,Male,124.18,High,Australia
+718992,2218,Home Decor Lamp,4,1/26/2021 15:00,133.27,27118,37,Male,275.97,Low,Australia
+149115,6016,Home Decor Lamp,1,1/26/2021 16:00,134.86,32616,26,Male,180.48,Medium,United Kingdom
+453151,7881,Ceramic Mug,7,1/26/2021 17:00,136.83,10798,34,Female,225.07,High,Canada
+843583,1954,Desk Organizer,1,1/26/2021 18:00,50.51,17601,44,Female,94.98,High,Australia
+291962,8291,Notebook,4,1/26/2021 19:00,105.2,35363,19,Male,280.51,High,Canada
+821747,1974,Desk Organizer,8,1/26/2021 20:00,44.39,12795,53,Male,126.9,Low,Canada
+249143,5133,Storage Box,2,1/26/2021 21:00,32.64,55264,36,Male,73.66,Low,Australia
+814635,6370,Desk Organizer,6,1/26/2021 22:00,31.77,82833,34,Male,56.86,High,Canada
+636226,4972,Storage Box,6,1/26/2021 23:00,54.61,13084,22,Male,82.36,Low,Canada
+453824,6295,Desk Organizer,9,1/27/2021 0:00,67.34,86646,56,Female,199.61,Low,Australia
+104000,9228,Notebook,5,1/27/2021 1:00,125.49,10731,35,Female,372.21,Low,USA
+825948,4020,Notebook,4,1/27/2021 2:00,22.38,11129,24,Female,63.78,Medium,Australia
+987474,9987,Wireless Mouse,5,1/27/2021 3:00,111.56,38022,34,Female,286.86,Low,Australia
+455754,5036,Ceramic Mug,5,1/27/2021 4:00,82.06,11605,56,Male,135.53,Medium,Canada
+351492,6068,Notebook,8,1/27/2021 5:00,46.75,87506,53,Male,123.14,Medium,Australia
+990123,6233,Storage Box,8,1/27/2021 6:00,76.46,54130,57,Male,138.97,High,Australia
+599522,1317,Notebook,2,1/27/2021 7:00,48.49,39265,21,Male,80.18,Low,Australia
+591072,3396,Wireless Mouse,7,1/27/2021 8:00,91.43,42330,55,Female,227.64,Medium,Canada
+138304,3162,Home Decor Lamp,8,1/27/2021 9:00,67.91,78469,42,Male,78.73,Medium,Canada
+604999,3745,Storage Box,6,1/27/2021 10:00,28.84,25187,22,Female,31.64,High,United Kingdom
+431593,2591,Wireless Mouse,5,1/27/2021 11:00,21.9,35791,47,Male,41.52,Medium,USA
+707274,7183,Water Bottle,9,1/27/2021 12:00,84.27,80610,29,Female,159.38,High,Australia
+251836,4930,Water Bottle,3,1/27/2021 13:00,135.85,49867,21,Female,379.2,Low,Australia
+208940,2312,LED Light Strip,4,1/27/2021 14:00,54.87,10893,41,Female,68.71,High,United Kingdom
+924926,5311,Desk Organizer,9,1/27/2021 15:00,111.29,29773,46,Female,138.73,Medium,Canada
+365517,8314,Ceramic Mug,6,1/27/2021 16:00,100.51,14239,26,Male,130.15,Low,Australia
+767521,3383,Bluetooth Speaker,8,1/27/2021 17:00,140.08,30863,21,Female,148.41,High,Australia
+721820,4239,Wall Clock,7,1/27/2021 18:00,124.04,61415,41,Female,141.84,High,Canada
+979090,3139,Wireless Mouse,2,1/27/2021 19:00,87.16,78968,31,Female,202.19,Low,USA
+485777,2704,Home Decor Lamp,3,1/27/2021 20:00,100.27,70430,22,Female,186.82,Low,United Kingdom
+724674,7924,Wall Clock,1,1/27/2021 21:00,135.27,11515,35,Female,341.86,Low,Australia
+651638,1362,Home Decor Lamp,9,1/27/2021 22:00,62.93,24605,59,Female,187.86,High,USA
+717296,3604,Wall Clock,7,1/27/2021 23:00,52.39,66240,36,Male,121.44,Low,Canada
+980729,5286,Wireless Mouse,1,1/28/2021 0:00,6.57,15586,29,Female,7.23,Low,United Kingdom
+649639,4738,Bluetooth Speaker,3,1/28/2021 1:00,124.85,41186,35,Male,150.96,Low,Canada
+712956,3469,Wall Clock,4,1/28/2021 2:00,121.14,36928,34,Male,334.59,High,Canada
+738873,5795,Wireless Mouse,4,1/28/2021 3:00,20.15,93087,47,Male,41.41,High,USA
+437497,7150,Notebook,5,1/28/2021 4:00,88.64,97029,41,Male,234.87,High,Canada
+307869,1556,Bluetooth Speaker,3,1/28/2021 5:00,72.28,30711,28,Male,196.11,Low,United Kingdom
+165953,3808,Storage Box,3,1/28/2021 6:00,22.21,64962,52,Male,63.42,High,United Kingdom
+943890,6150,Home Decor Lamp,1,1/28/2021 7:00,147.18,30039,40,Male,426.77,High,Australia
+600328,8561,Water Bottle,7,1/28/2021 8:00,36.13,46561,34,Male,76.22,High,United Kingdom
+906790,3719,Desk Organizer,1,1/28/2021 9:00,14.75,85483,18,Male,24.81,Medium,Canada
+103267,7506,Water Bottle,2,1/28/2021 10:00,91.25,91395,32,Female,266.79,Medium,USA
+182745,4741,Bluetooth Speaker,4,1/28/2021 11:00,112.14,98658,49,Female,234.91,High,Australia
+976020,4998,Storage Box,4,1/28/2021 12:00,9.7,11577,26,Female,10.95,Low,United Kingdom
+924945,3403,Home Decor Lamp,5,1/28/2021 13:00,100.51,38350,32,Female,229.72,Medium,Australia
+257164,9780,Storage Box,2,1/28/2021 14:00,82.18,43798,45,Female,178.77,High,United Kingdom
+635626,1294,Wall Clock,4,1/28/2021 15:00,19.97,91417,41,Male,55.75,High,United Kingdom
+231484,6343,Home Decor Lamp,1,1/28/2021 16:00,30.02,20785,52,Female,69.24,High,Australia
+631831,2136,Wall Clock,2,1/28/2021 17:00,87.36,82227,39,Female,148.35,High,United Kingdom
+992323,3064,Wireless Mouse,1,1/28/2021 18:00,47.97,71957,44,Male,140.67,Low,Australia
+160692,8009,Bluetooth Speaker,4,1/28/2021 19:00,141.06,75431,36,Male,367.21,Low,Australia
+320156,5543,Wireless Mouse,4,1/28/2021 20:00,123.72,27297,29,Female,279.71,Medium,Canada
+323992,2007,LED Light Strip,7,1/28/2021 21:00,147.62,81894,37,Male,234.1,Medium,Australia
+616771,6445,Storage Box,9,1/28/2021 22:00,42.65,73772,18,Female,74.51,Low,Australia
+930857,6352,Wall Clock,9,1/28/2021 23:00,145.61,29581,38,Male,340.72,Low,Australia
+663044,2435,Notebook,5,1/29/2021 0:00,67.53,65192,18,Female,77.25,Medium,Australia
+643176,1571,Wireless Mouse,1,1/29/2021 1:00,55.39,11462,27,Male,83.83,High,Canada
+791095,3382,LED Light Strip,1,1/29/2021 2:00,12.3,74173,49,Male,29.86,High,Australia
+933727,6084,Ceramic Mug,6,1/29/2021 3:00,12.65,25511,56,Male,24.79,High,Canada
+214352,1277,Water Bottle,2,1/29/2021 4:00,105.34,86106,39,Female,190.12,High,Australia
+969474,8059,Home Decor Lamp,8,1/29/2021 5:00,71.4,58665,35,Female,93.03,High,Australia
+185999,2887,LED Light Strip,9,1/29/2021 6:00,37.85,54414,49,Female,71.3,High,Australia
+117955,2265,Bluetooth Speaker,4,1/29/2021 7:00,94.03,91010,44,Male,238.97,High,Canada
+924273,8491,Wireless Mouse,5,1/29/2021 8:00,41.66,82573,45,Female,63.66,High,United Kingdom
+170640,2040,Bluetooth Speaker,8,1/29/2021 9:00,88.76,23386,35,Male,89.72,High,USA
+296582,9073,Water Bottle,3,1/29/2021 10:00,57.09,64460,56,Male,133.42,High,United Kingdom
+844086,3752,Notebook,5,1/29/2021 11:00,124.42,16221,46,Male,366.45,Medium,Australia
+500573,9213,Storage Box,3,1/29/2021 12:00,124,33474,35,Female,274.49,Low,Canada
+525695,5569,Storage Box,3,1/29/2021 13:00,74.22,31045,25,Male,92.02,Low,USA
+161476,7353,Bluetooth Speaker,3,1/29/2021 14:00,55.87,14922,48,Male,91.71,Low,Australia
+406955,3353,Wall Clock,7,1/29/2021 15:00,57.57,32706,51,Female,157.47,Low,Australia
+267280,8437,Notebook,7,1/29/2021 16:00,121.83,52771,24,Female,178.5,Low,United Kingdom
+775510,5799,Storage Box,7,1/29/2021 17:00,52.59,62335,53,Male,116.51,Medium,Australia
+695468,1686,Notebook,8,1/29/2021 18:00,35.31,62949,35,Male,63.75,Medium,USA
+798646,9476,LED Light Strip,5,1/29/2021 19:00,17.28,80714,55,Male,24.46,High,Australia
+737144,5811,Notebook,5,1/29/2021 20:00,72.67,25240,26,Male,190.89,Low,Australia
+954882,9954,Desk Organizer,4,1/29/2021 21:00,74.91,12716,26,Female,186.2,High,USA
+514568,6346,Water Bottle,7,1/29/2021 22:00,126.93,26574,25,Male,294.88,High,Canada
+286141,6043,Storage Box,4,1/29/2021 23:00,37.08,93255,52,Female,54.61,Medium,Australia
+998320,3428,Notebook,2,1/30/2021 0:00,60.24,83717,35,Female,72.03,High,USA
+734736,6126,Bluetooth Speaker,4,1/30/2021 1:00,122.22,54066,22,Male,263.06,Low,Australia
+638685,9220,Ceramic Mug,8,1/30/2021 2:00,124.43,71826,31,Female,262.22,Low,Australia
+278031,8813,Desk Organizer,9,1/30/2021 3:00,60.77,30213,45,Male,83.67,Medium,USA
+219180,4356,Desk Organizer,3,1/30/2021 4:00,71.57,81916,47,Male,79.62,Low,United Kingdom
+166234,9707,Wall Clock,7,1/30/2021 5:00,48.98,76151,21,Male,56.89,Medium,Australia
+664242,8266,Notebook,9,1/30/2021 6:00,140.22,60906,56,Male,418.63,Medium,Australia
+278352,7540,Wall Clock,4,1/30/2021 7:00,22.2,10463,37,Male,56.99,Medium,Canada
+179459,1038,Wall Clock,3,1/30/2021 8:00,140.39,41973,42,Male,399.27,Low,Australia
+509995,4342,Ceramic Mug,5,1/30/2021 9:00,104.16,84694,45,Female,144.79,Medium,United Kingdom
+295004,3844,LED Light Strip,1,1/30/2021 10:00,82.08,30651,29,Female,239.77,High,United Kingdom
+566152,2098,Notebook,3,1/30/2021 11:00,9.74,78694,19,Female,12.52,Medium,Australia
+825256,8027,Wireless Mouse,8,1/30/2021 12:00,73.96,30008,31,Male,149.26,Low,United Kingdom
+159163,2823,Storage Box,8,1/30/2021 13:00,64.12,80474,39,Female,170.52,Low,Canada
+575853,4155,Wall Clock,4,1/30/2021 14:00,28.38,48185,48,Female,48.23,Low,Australia
+151934,4093,Water Bottle,2,1/30/2021 15:00,100.18,97924,40,Female,185.3,Low,Australia
+820255,6658,Home Decor Lamp,8,1/30/2021 16:00,145.82,84417,37,Female,183.2,High,Australia
+525523,4778,Water Bottle,8,1/30/2021 17:00,86.52,81139,55,Female,107.79,Low,United Kingdom
+940530,3896,Ceramic Mug,4,1/30/2021 18:00,108.64,44980,21,Male,243.26,High,Canada
+554137,1988,Ceramic Mug,3,1/30/2021 19:00,14.93,32504,32,Female,35.1,High,Australia
+105486,5116,Bluetooth Speaker,2,1/30/2021 20:00,65.56,64970,41,Male,167.48,Low,Australia
+239407,7446,LED Light Strip,9,1/30/2021 21:00,21.87,26766,42,Female,46.22,Medium,Australia
+973332,5179,Storage Box,1,1/30/2021 22:00,93.86,21695,18,Male,215.08,High,United Kingdom
+750308,2682,Wall Clock,7,1/30/2021 23:00,141.08,27796,24,Male,144.89,High,Australia
+727083,6626,Water Bottle,5,1/31/2021 0:00,100.96,52543,48,Male,133.71,Medium,Canada
+320184,8424,Home Decor Lamp,8,1/31/2021 1:00,16.14,24559,29,Female,47.93,High,Australia
+766490,1933,Ceramic Mug,4,1/31/2021 2:00,56.43,43139,59,Male,65.01,High,Canada
+449652,4598,Ceramic Mug,7,1/31/2021 3:00,84.85,18802,22,Male,200.04,Medium,United Kingdom
+861315,2980,LED Light Strip,5,1/31/2021 4:00,63.47,83843,59,Female,85.82,High,United Kingdom
+742612,4056,Home Decor Lamp,5,1/31/2021 5:00,125.88,50205,55,Female,306.32,Medium,Australia
+422710,9984,Home Decor Lamp,9,1/31/2021 6:00,123.13,44159,29,Male,296.99,Medium,Canada
+297775,1791,LED Light Strip,9,1/31/2021 7:00,93.72,21516,56,Male,137.62,High,Australia
+389336,6390,Ceramic Mug,9,1/31/2021 8:00,59.15,60492,35,Female,91.05,High,Australia
+887494,7635,Storage Box,6,1/31/2021 9:00,42.02,39086,19,Female,97.05,Medium,United Kingdom
+708364,3255,Notebook,6,1/31/2021 10:00,20.35,40480,27,Male,36.23,Low,Canada
+189780,4610,Notebook,5,1/31/2021 11:00,56.46,62091,32,Female,78.43,High,Australia
+252617,2607,LED Light Strip,9,1/31/2021 12:00,64.91,57766,47,Male,159.9,High,Australia
+645977,6179,Home Decor Lamp,8,1/31/2021 13:00,102.99,48737,34,Female,134.74,High,Canada
+897606,7573,Wall Clock,7,1/31/2021 14:00,100.43,19265,21,Female,272.29,High,Canada
+450605,1984,LED Light Strip,7,1/31/2021 15:00,15.17,80990,24,Male,30.79,High,Australia
+989465,6776,Storage Box,6,1/31/2021 16:00,62.31,25386,58,Male,75.48,Medium,United Kingdom
+633636,4676,LED Light Strip,5,1/31/2021 17:00,31.36,47425,48,Female,74.89,Low,Australia
+138102,4380,Desk Organizer,4,1/31/2021 18:00,27.74,53254,56,Female,56.54,Medium,United Kingdom
+174460,9711,Water Bottle,3,1/31/2021 19:00,124.96,99863,51,Male,199.45,High,Canada
+464778,9782,Home Decor Lamp,3,1/31/2021 20:00,11.08,63634,23,Female,20.44,High,Australia
+189930,2050,Bluetooth Speaker,6,1/31/2021 21:00,65.78,96717,55,Female,105.03,Medium,Canada
+631089,4633,Bluetooth Speaker,4,1/31/2021 22:00,29.39,57662,51,Male,44.85,Medium,Australia
+727438,7342,Home Decor Lamp,6,1/31/2021 23:00,132.5,96988,32,Female,175.86,Medium,United Kingdom
+827627,1959,Storage Box,3,2/1/2021 0:00,85.77,97527,31,Female,148,Medium,United Kingdom
+279208,7059,Desk Organizer,4,2/1/2021 1:00,38.55,85452,23,Female,57.9,Medium,USA
+254697,9884,Desk Organizer,9,2/1/2021 2:00,77.85,20143,54,Male,184.26,Low,Australia
+313945,6655,Ceramic Mug,5,2/1/2021 3:00,111.07,25581,49,Male,262.99,Medium,Australia
+331915,5473,Water Bottle,7,2/1/2021 4:00,143.93,77443,20,Male,288.39,Medium,Australia
+827952,3946,Notebook,2,2/1/2021 5:00,36.96,39424,20,Female,94.47,Medium,USA
+308124,8725,Wireless Mouse,5,2/1/2021 6:00,133.5,98844,39,Female,358.14,Low,Canada
+537477,1526,Storage Box,9,2/1/2021 7:00,140.47,51984,39,Female,303.35,High,United Kingdom
+625830,4224,Wireless Mouse,3,2/1/2021 8:00,137.88,51505,27,Female,308.56,Medium,Australia
+383821,2875,Wireless Mouse,9,2/1/2021 9:00,97.14,72699,20,Male,152.1,High,Canada
+277804,2763,Home Decor Lamp,6,2/1/2021 10:00,96.32,36957,29,Female,268.71,High,Canada
+805703,9712,Bluetooth Speaker,4,2/1/2021 11:00,63.47,35464,46,Male,66.54,Medium,United Kingdom
+139081,6797,Bluetooth Speaker,7,2/1/2021 12:00,114.1,33649,34,Female,193.65,Medium,Australia
+818216,8099,Notebook,8,2/1/2021 13:00,82.04,52065,24,Male,200.47,High,Australia
+455249,6109,Home Decor Lamp,6,2/1/2021 14:00,103.23,44758,30,Female,119.77,High,United Kingdom
+319930,7644,Wireless Mouse,5,2/1/2021 15:00,67.13,15596,19,Female,91.72,High,Canada
+905497,1116,Wall Clock,6,2/1/2021 16:00,111.07,26374,21,Female,241.97,High,Australia
+617313,3433,Bluetooth Speaker,5,2/1/2021 17:00,124.55,13775,27,Male,264.04,Low,United Kingdom
+314532,6463,Storage Box,8,2/1/2021 18:00,26.23,37388,56,Male,64.99,Low,Australia
+712380,1583,Storage Box,1,2/1/2021 19:00,125.77,31029,41,Female,330.17,Medium,Canada
+619332,9586,Ceramic Mug,7,2/1/2021 20:00,83.34,93981,34,Female,104.77,Medium,United Kingdom
+416837,4788,LED Light Strip,2,2/1/2021 21:00,127.48,63639,23,Male,132.17,Medium,Australia
+389106,5167,Wall Clock,9,2/1/2021 22:00,67.54,24645,36,Female,160.7,High,United Kingdom
+128295,9465,Bluetooth Speaker,1,2/1/2021 23:00,59.96,41105,22,Male,96.1,Medium,Australia
+113807,2389,Desk Organizer,6,2/2/2021 0:00,137.68,23668,49,Male,310.05,Medium,Australia
+535564,9357,Bluetooth Speaker,9,2/2/2021 1:00,41.42,25960,27,Female,53.89,High,Canada
+257504,7154,Ceramic Mug,1,2/2/2021 2:00,127.41,21357,26,Female,246.93,High,Australia
+338067,6420,Storage Box,4,2/2/2021 3:00,75.18,74604,44,Female,151.03,Medium,Australia
+585008,9920,Wireless Mouse,4,2/2/2021 4:00,79.54,61796,30,Female,172.61,High,Australia
+792440,3043,Desk Organizer,9,2/2/2021 5:00,49.73,25804,36,Male,100.77,High,Australia
+494540,5197,Home Decor Lamp,5,2/2/2021 6:00,88.09,24626,38,Male,175.42,Medium,Australia
+977699,4496,Water Bottle,5,2/2/2021 7:00,52.16,38132,41,Male,86.87,Low,Australia
+617923,1778,Wireless Mouse,6,2/2/2021 8:00,10.69,17951,55,Male,12.21,Low,United Kingdom
+266981,1213,Water Bottle,1,2/2/2021 9:00,44.44,16449,21,Female,52.4,Medium,Australia
+844699,4762,Wall Clock,1,2/2/2021 10:00,5.92,29065,41,Male,11.06,Medium,Canada
+119870,7731,LED Light Strip,9,2/2/2021 11:00,146.86,19130,52,Male,251.36,High,Australia
+303196,4117,Desk Organizer,3,2/2/2021 12:00,145.03,99360,20,Male,294.74,High,Australia
+348683,6791,Notebook,4,2/2/2021 13:00,62.3,72287,21,Male,100.28,High,Australia
+334677,9783,Desk Organizer,1,2/2/2021 14:00,110.61,61702,54,Male,262.79,High,Canada
+126790,3720,Bluetooth Speaker,9,2/2/2021 15:00,55.14,46993,57,Female,150.42,High,United Kingdom
+743162,9905,Storage Box,8,2/2/2021 16:00,102.31,41875,52,Female,163.46,Medium,Canada
+911721,7047,Bluetooth Speaker,2,2/2/2021 17:00,121.79,16054,48,Female,168.8,Low,Australia
+548345,9032,Bluetooth Speaker,8,2/2/2021 18:00,142.28,58517,42,Female,175.34,High,Canada
+849074,1001,Wall Clock,7,2/2/2021 19:00,63.03,86368,57,Male,140.71,Medium,Australia
+587462,7368,Wireless Mouse,6,2/2/2021 20:00,118.58,39670,30,Female,223.84,Medium,Australia
+639773,2949,Notebook,1,2/2/2021 21:00,43.56,59112,21,Male,59.94,High,United Kingdom
+930914,7732,Notebook,7,2/2/2021 22:00,148.6,98388,31,Male,342.71,High,Australia
+186188,8833,Bluetooth Speaker,7,2/2/2021 23:00,8.74,99156,30,Female,11.34,Medium,USA
+629036,1917,Water Bottle,9,2/3/2021 0:00,92.51,38307,44,Male,195.07,High,Australia
+842129,4174,Wall Clock,1,2/3/2021 1:00,100.63,77087,23,Female,206.72,Medium,USA
+764795,8014,Bluetooth Speaker,2,2/3/2021 2:00,104.77,57922,34,Male,258.62,High,United Kingdom
+890141,1089,LED Light Strip,9,2/3/2021 3:00,22.46,73080,53,Female,24.94,Low,United Kingdom
+748249,2709,Storage Box,9,2/3/2021 4:00,141.09,89335,57,Male,391.63,High,Australia
+130355,4041,Wireless Mouse,6,2/3/2021 5:00,31.27,36312,52,Male,75.24,Low,Australia
+811131,1105,Home Decor Lamp,6,2/3/2021 6:00,95.3,76985,34,Female,136.49,High,USA
+551015,9619,LED Light Strip,4,2/3/2021 7:00,37.29,67608,58,Male,50.97,Low,Australia
+506332,2895,Water Bottle,4,2/3/2021 8:00,49.55,99962,19,Male,92.33,Medium,United Kingdom
+256542,7090,Desk Organizer,5,2/3/2021 9:00,84.24,50277,30,Male,221.98,Medium,USA
+273416,9508,Desk Organizer,3,2/3/2021 10:00,65.49,41551,19,Female,175.9,Medium,Australia
+405062,7082,LED Light Strip,1,2/3/2021 11:00,28.23,99813,45,Female,57.61,Low,United Kingdom
+938656,1634,Bluetooth Speaker,1,2/3/2021 12:00,29.79,66597,43,Male,81.08,Medium,United Kingdom
+663586,2925,Home Decor Lamp,7,2/3/2021 13:00,65.63,55212,39,Female,66.34,High,Australia
+601708,3056,Ceramic Mug,1,2/3/2021 14:00,114.81,19637,20,Female,122.89,High,Australia
+966651,7917,Ceramic Mug,1,2/3/2021 15:00,135.2,53258,52,Female,381.76,Low,Australia
+161629,4144,Water Bottle,3,2/3/2021 16:00,17.2,45693,29,Female,43.87,High,Australia
+428184,1552,Bluetooth Speaker,4,2/3/2021 17:00,62,19824,41,Male,117.89,Low,Canada
+592734,9907,Notebook,4,2/3/2021 18:00,19.54,36950,22,Female,48.99,Medium,Australia
+855195,6383,Notebook,2,2/3/2021 19:00,7.41,33488,37,Male,21.57,Medium,USA
+390160,4911,Wireless Mouse,1,2/3/2021 20:00,100.95,10215,56,Male,256.83,Medium,Australia
+648248,4389,Home Decor Lamp,3,2/3/2021 21:00,92.36,21523,56,Female,247.96,Medium,United Kingdom
+920023,9442,Home Decor Lamp,4,2/3/2021 22:00,28.64,85900,30,Female,72.21,High,United Kingdom
+313920,3430,Desk Organizer,3,2/3/2021 23:00,38.9,78689,58,Male,51.99,Medium,Australia
+989765,1458,Wall Clock,8,2/4/2021 0:00,8.44,33834,29,Male,22.51,Low,Australia
+342804,1207,Water Bottle,1,2/4/2021 1:00,126.07,44474,30,Female,175.26,Medium,Canada
+476965,1899,Ceramic Mug,2,2/4/2021 2:00,146.33,53066,27,Male,407.56,High,Canada
+560857,1021,Water Bottle,7,2/4/2021 3:00,24.64,20400,50,Male,47.24,High,Australia
+922827,9601,Notebook,4,2/4/2021 4:00,38.56,20345,57,Male,90.77,High,Australia
+604492,1894,Notebook,8,2/4/2021 5:00,130.92,43896,33,Male,261.12,High,Australia
+753983,1514,LED Light Strip,3,2/4/2021 6:00,139.34,95430,52,Female,165.53,High,Australia
+515916,8294,Wireless Mouse,6,2/4/2021 7:00,65.85,38899,20,Male,104.14,High,United Kingdom
+921052,5904,Home Decor Lamp,9,2/4/2021 8:00,12.34,38229,22,Female,36.62,Low,Canada
+858574,8867,Storage Box,1,2/4/2021 9:00,10.71,15583,43,Male,31.29,High,Australia
+228148,5109,Water Bottle,1,2/4/2021 10:00,88.22,14897,28,Female,144.77,Low,USA
+906991,8179,Notebook,8,2/4/2021 11:00,61.97,81537,24,Female,185.45,High,Australia
+586261,2560,Wall Clock,3,2/4/2021 12:00,9.15,14567,27,Female,24.62,High,United Kingdom
+455540,2266,Desk Organizer,5,2/4/2021 13:00,89.57,84807,59,Female,199.02,High,Australia
+292714,4638,Ceramic Mug,1,2/4/2021 14:00,6.64,87239,51,Female,7.17,Medium,Australia
+831899,9941,Wireless Mouse,5,2/4/2021 15:00,119.17,23329,20,Male,334.02,High,Australia
+383876,4427,Wall Clock,6,2/4/2021 16:00,49.43,81792,25,Female,104.54,High,Australia
+359747,5780,Wireless Mouse,8,2/4/2021 17:00,10.84,10228,48,Female,29.67,Low,Canada
+715650,2927,LED Light Strip,3,2/4/2021 18:00,90.31,92214,28,Male,241.02,Medium,Canada
+523570,3356,Storage Box,3,2/4/2021 19:00,62.66,47052,24,Male,167.05,High,Australia
+375987,5790,Notebook,9,2/4/2021 20:00,146.2,67769,19,Female,350.35,High,Canada
+738353,1306,Desk Organizer,4,2/4/2021 21:00,83.91,56032,23,Female,132.82,Low,Australia
+958158,8979,Wall Clock,4,2/4/2021 22:00,44.91,98721,58,Male,75.1,Low,Canada
+117640,4665,Wireless Mouse,7,2/4/2021 23:00,107.87,43686,49,Male,174.42,Low,Australia
+152528,8057,Home Decor Lamp,2,2/5/2021 0:00,44.37,86981,37,Female,46.15,Low,Australia
+924845,1661,LED Light Strip,8,2/5/2021 1:00,136.12,73261,51,Male,294.72,High,Australia
+359214,5644,Home Decor Lamp,6,2/5/2021 2:00,59.33,12809,33,Female,142.25,High,United Kingdom
+939070,9503,Desk Organizer,3,2/5/2021 3:00,84.73,51785,42,Female,229.43,High,United Kingdom
+601108,3920,Wall Clock,9,2/5/2021 4:00,12.33,46547,29,Female,15.79,Medium,Australia
+734421,9946,LED Light Strip,5,2/5/2021 5:00,66.79,52818,24,Male,139.48,High,Australia
+468501,7236,Wall Clock,8,2/5/2021 6:00,125.69,81927,56,Female,127.7,Low,Australia
+824226,7078,Notebook,7,2/5/2021 7:00,121.82,75681,34,Female,144.99,Medium,United Kingdom
+250159,1352,Bluetooth Speaker,8,2/5/2021 8:00,37.53,89465,28,Female,41.6,Medium,United Kingdom
+272502,8005,LED Light Strip,7,2/5/2021 9:00,37.78,99862,23,Male,92.6,Low,Australia
+255576,1158,Home Decor Lamp,3,2/5/2021 10:00,123.51,47333,40,Male,143.53,Medium,Australia
+965291,1956,Desk Organizer,2,2/5/2021 11:00,139.91,26576,44,Female,340.39,Medium,Canada
+986089,3071,Storage Box,7,2/5/2021 12:00,18.83,49405,23,Male,28.23,Low,Australia
+111023,9595,Notebook,3,2/5/2021 13:00,70.26,83779,55,Male,193.6,Low,Australia
+645735,4453,Bluetooth Speaker,3,2/5/2021 14:00,53.93,41601,19,Male,141.64,High,Australia
+488043,7675,Storage Box,2,2/5/2021 15:00,131.25,77946,39,Female,382.68,Low,Australia
+386103,1955,Ceramic Mug,4,2/5/2021 16:00,17.11,77356,37,Male,47.35,High,United Kingdom
+166203,7295,Notebook,8,2/5/2021 17:00,35.61,62116,42,Male,102.08,Low,United Kingdom
+260775,2712,Desk Organizer,1,2/5/2021 18:00,114.11,72894,32,Male,310.09,High,Australia
+109337,5703,Wireless Mouse,1,2/5/2021 19:00,12.44,44635,46,Female,29.69,High,Canada
+670715,7563,LED Light Strip,5,2/5/2021 20:00,76.42,17465,25,Male,102.44,High,Australia
+614723,6631,Wall Clock,5,2/5/2021 21:00,69.11,66754,54,Male,106.67,High,Canada
+423673,2394,Desk Organizer,1,2/5/2021 22:00,53.49,95119,50,Male,76.25,Medium,United Kingdom
+464167,5732,LED Light Strip,6,2/5/2021 23:00,62.21,48871,39,Female,137.31,Medium,United Kingdom
+446809,4714,Storage Box,1,2/6/2021 0:00,81.84,72874,22,Male,164.27,Medium,Australia
+730075,1529,Wall Clock,5,2/6/2021 1:00,28.4,87733,56,Male,77.65,Low,Australia
+787281,3958,Water Bottle,9,2/6/2021 2:00,87.94,39511,35,Male,255.5,Low,Australia
+395451,8904,Home Decor Lamp,5,2/6/2021 3:00,121.79,90960,55,Female,220.41,High,United Kingdom
+520571,4591,Ceramic Mug,6,2/6/2021 4:00,115.22,58821,54,Female,231.9,Medium,Australia
+227016,7895,Notebook,8,2/6/2021 5:00,27.32,75776,47,Female,80.4,High,USA
+891267,1525,Desk Organizer,1,2/6/2021 6:00,26.64,80167,48,Female,41.36,High,USA
+644447,7477,Ceramic Mug,2,2/6/2021 7:00,43.89,85135,27,Male,113.45,High,United Kingdom
+597562,1001,Wireless Mouse,9,2/6/2021 8:00,57.36,54462,32,Female,83.2,High,USA
+802965,1374,LED Light Strip,3,2/6/2021 9:00,64.23,71382,59,Male,151.77,High,Australia
+483934,5648,LED Light Strip,6,2/6/2021 10:00,103.56,42574,35,Female,156.09,Low,Australia
+992048,3365,Desk Organizer,5,2/6/2021 11:00,13.22,51910,40,Male,36.59,Medium,Australia
+965184,2525,Bluetooth Speaker,2,2/6/2021 12:00,10.03,83531,50,Male,21.29,High,United Kingdom
+417428,2646,Bluetooth Speaker,7,2/6/2021 13:00,61.83,35186,33,Female,84.82,High,Australia
+419187,1013,Water Bottle,4,2/6/2021 14:00,106.09,32813,55,Male,153.7,High,USA
+790907,5599,Home Decor Lamp,1,2/6/2021 15:00,33.05,88812,52,Female,65.69,Medium,Australia
+983439,3278,Wall Clock,4,2/6/2021 16:00,98.02,95525,51,Male,286.53,High,Australia
+182844,4155,Wireless Mouse,6,2/6/2021 17:00,42.68,88282,45,Male,108.38,Low,Canada
+651820,9321,Ceramic Mug,7,2/6/2021 18:00,133.48,28557,19,Female,263.84,Low,Australia
+265421,4814,Bluetooth Speaker,7,2/6/2021 19:00,134.88,38060,47,Female,225.98,Medium,Australia
+222402,4216,Water Bottle,7,2/6/2021 20:00,48.11,68866,30,Female,100.96,Medium,United Kingdom
+218012,9219,Water Bottle,3,2/6/2021 21:00,38.35,82104,58,Male,95.75,Medium,Australia
+538661,3113,Desk Organizer,6,2/6/2021 22:00,64.64,94577,33,Male,165.99,Medium,Australia
+498929,5356,Wireless Mouse,8,2/6/2021 23:00,39.88,16080,22,Female,65.77,Low,Australia
+680466,6543,Storage Box,4,2/7/2021 0:00,102.5,23854,45,Female,250.34,Medium,Australia
+673695,5555,Wall Clock,8,2/7/2021 1:00,124.78,77695,56,Male,288.94,High,USA
+563556,8062,Home Decor Lamp,2,2/7/2021 2:00,102.6,37025,37,Female,299.41,High,Canada
+675278,4374,Notebook,9,2/7/2021 3:00,124.53,62982,41,Female,356.43,Low,Australia
+229473,7430,Desk Organizer,9,2/7/2021 4:00,62.56,51081,44,Female,161.33,Medium,Australia
+578007,4466,Wall Clock,8,2/7/2021 5:00,27.67,14368,47,Female,67.7,High,Australia
+944573,4081,Notebook,1,2/7/2021 6:00,112,37094,44,Female,173.39,Medium,USA
+517009,1629,Notebook,2,2/7/2021 7:00,57.27,56040,43,Male,154.17,Medium,Australia
+418714,1269,Wireless Mouse,6,2/7/2021 8:00,102.33,76766,24,Male,189.82,High,Australia
+326156,6724,Wireless Mouse,5,2/7/2021 9:00,44.24,93053,59,Female,68.33,High,Canada
+268964,6897,Ceramic Mug,9,2/7/2021 10:00,16.78,33991,55,Male,29.67,Low,USA
+625303,4432,Water Bottle,5,2/7/2021 11:00,148.92,11301,22,Male,397.9,Medium,Australia
+161813,7276,Wall Clock,2,2/7/2021 12:00,27.65,38610,40,Male,35.87,Medium,Australia
+127712,6895,Desk Organizer,4,2/7/2021 13:00,148.32,91463,45,Male,283.63,Medium,Australia
+724785,8115,LED Light Strip,9,2/7/2021 14:00,146.71,44678,51,Female,291.18,Low,Australia
+867214,7656,Desk Organizer,1,2/7/2021 15:00,120.1,34466,32,Female,128.9,Low,United Kingdom
+212816,1575,Ceramic Mug,1,2/7/2021 16:00,100.62,90440,49,Male,140.01,Medium,United Kingdom
+228778,8029,Home Decor Lamp,7,2/7/2021 17:00,88.78,50875,43,Male,235.58,High,United Kingdom
+686580,7099,Water Bottle,3,2/7/2021 18:00,130.58,36081,48,Female,347.54,High,Australia
+385977,4192,LED Light Strip,2,2/7/2021 19:00,46.97,34354,36,Female,74.44,High,Australia
+235230,4178,Bluetooth Speaker,9,2/7/2021 20:00,72.81,28300,26,Female,200.21,High,Australia
+818040,7052,Home Decor Lamp,3,2/7/2021 21:00,94.81,74384,46,Female,241.16,Low,Australia
+906741,3734,Wireless Mouse,2,2/7/2021 22:00,64.62,70892,56,Male,118.63,High,Canada
+369114,7116,Notebook,8,2/7/2021 23:00,66.99,45525,21,Male,167.26,Medium,Australia
+434618,4568,Bluetooth Speaker,6,2/8/2021 0:00,52.89,36532,20,Female,154.58,Medium,Australia
+932972,3203,Desk Organizer,6,2/8/2021 1:00,86.81,16464,46,Female,166.5,High,Australia
+251456,2390,Desk Organizer,7,2/8/2021 2:00,128.33,26562,28,Female,189.52,High,Australia
+904449,2742,Wireless Mouse,7,2/8/2021 3:00,34.22,65514,50,Male,98.68,High,Australia
+962312,2925,Ceramic Mug,6,2/8/2021 4:00,140.49,84219,55,Female,310.13,Low,Canada
+205570,1619,Wall Clock,4,2/8/2021 5:00,104.92,42634,28,Female,127.01,High,Australia
+370846,2274,Bluetooth Speaker,9,2/8/2021 6:00,124.37,10060,44,Male,266.82,High,Canada
+100404,1956,Bluetooth Speaker,6,2/8/2021 7:00,85.65,19269,50,Male,171.4,Medium,Australia
+803286,2939,Storage Box,4,2/8/2021 8:00,118.03,73143,38,Male,320,Low,Australia
+374907,4953,Home Decor Lamp,3,2/8/2021 9:00,7.35,33065,56,Male,15.15,Low,USA
+773744,1968,Water Bottle,4,2/8/2021 10:00,123.67,12895,48,Male,186.8,High,Australia
+815460,1281,Home Decor Lamp,3,2/8/2021 11:00,10.82,90859,55,Male,25.44,Medium,United Kingdom
+984574,7262,Wall Clock,2,2/8/2021 12:00,134.04,22352,19,Female,279.49,Medium,Australia
+765220,2058,Desk Organizer,5,2/8/2021 13:00,148.83,59737,44,Male,218.2,Medium,United Kingdom
+335365,5293,Desk Organizer,2,2/8/2021 14:00,47.64,42016,53,Male,102.3,Medium,Canada
+442786,6178,Desk Organizer,6,2/8/2021 15:00,35.5,71304,28,Female,93.83,High,Canada
+150612,7980,Storage Box,3,2/8/2021 16:00,115.98,21962,35,Female,122.61,Medium,Canada
+910006,2229,Desk Organizer,6,2/8/2021 17:00,41.69,43302,18,Female,94.29,High,United Kingdom
+909956,5585,Wall Clock,9,2/8/2021 18:00,130.51,95382,52,Male,221.76,High,Australia
+300244,9467,Wireless Mouse,1,2/8/2021 19:00,19.91,14011,52,Female,31.56,High,United Kingdom
+897348,3740,Water Bottle,6,2/8/2021 20:00,23.26,29782,48,Male,41.52,Medium,Canada
+104809,3289,Wall Clock,9,2/8/2021 21:00,146.98,77691,45,Female,247.52,Low,Australia
+263273,2239,Water Bottle,4,2/8/2021 22:00,102.71,49725,56,Male,273.67,Medium,Australia
+808690,6370,Wall Clock,2,2/8/2021 23:00,127.8,19196,18,Female,198.04,Medium,Canada
+244528,1125,Desk Organizer,4,2/9/2021 0:00,52.03,53459,42,Male,128.32,Low,Australia
+606964,8473,Wireless Mouse,1,2/9/2021 1:00,103.09,97245,55,Female,122.48,High,Australia
+549613,6342,Bluetooth Speaker,3,2/9/2021 2:00,91.17,88863,37,Male,264.65,Medium,Canada
+138765,8351,Home Decor Lamp,9,2/9/2021 3:00,92.46,42769,20,Male,207.54,Low,Australia
+931538,7638,Notebook,5,2/9/2021 4:00,103.97,34700,19,Male,250.93,Low,Australia
+416076,7570,Wireless Mouse,6,2/9/2021 5:00,88.43,90356,35,Female,141.14,Medium,United Kingdom
+943523,4249,Bluetooth Speaker,3,2/9/2021 6:00,67.21,86427,27,Female,122.6,High,Australia
+646237,8595,Ceramic Mug,5,2/9/2021 7:00,45.01,15269,22,Female,65.15,Medium,Canada
+301152,7294,Wall Clock,8,2/9/2021 8:00,116.44,53880,26,Male,333.61,Medium,Australia
+399888,7527,Ceramic Mug,6,2/9/2021 9:00,37.81,18320,19,Male,74.72,High,Australia
+800903,6757,Bluetooth Speaker,4,2/9/2021 10:00,105.39,59589,51,Female,238.28,Medium,Australia
+994751,2969,Wireless Mouse,2,2/9/2021 11:00,38.83,86276,55,Male,95.85,Low,USA
+192193,1891,Wall Clock,9,2/9/2021 12:00,95.67,45897,48,Female,166.68,Low,Australia
+136187,5470,Notebook,1,2/9/2021 13:00,113.33,68565,27,Female,276.55,Medium,Australia
+605950,8175,Desk Organizer,1,2/9/2021 14:00,36.71,40930,29,Female,86.34,Low,Australia
+238311,9320,Wall Clock,4,2/9/2021 15:00,13.69,67233,53,Male,33.01,Low,Australia
+900921,7812,Wall Clock,7,2/9/2021 16:00,23.99,92821,38,Male,47.46,High,Australia
+608153,8519,Wireless Mouse,1,2/9/2021 17:00,92.87,24380,23,Male,164,Low,Australia
+289089,5612,Wireless Mouse,9,2/9/2021 18:00,128.17,86896,20,Female,185.1,High,United Kingdom
+686165,2198,Bluetooth Speaker,4,2/9/2021 19:00,11.52,80934,27,Male,30.52,High,Australia
+536341,6238,LED Light Strip,3,2/9/2021 20:00,111.45,65830,22,Male,247.05,Medium,Canada
+412066,7089,Wall Clock,1,2/9/2021 21:00,54.49,15529,43,Male,102.92,Medium,United Kingdom
+718362,7257,Home Decor Lamp,4,2/9/2021 22:00,74.39,92987,38,Male,214.84,Low,Australia
+787409,8705,Wall Clock,9,2/9/2021 23:00,139.68,59178,43,Female,153.04,High,Australia
+661419,4719,Bluetooth Speaker,6,2/10/2021 0:00,53.14,16937,55,Female,143.5,High,Canada
+740053,1302,Water Bottle,6,2/10/2021 1:00,72.47,49886,43,Male,217.06,High,Canada
+960395,1986,Ceramic Mug,1,2/10/2021 2:00,6.98,59699,25,Male,19.36,Low,Australia
+731172,5440,Desk Organizer,2,2/10/2021 3:00,16.83,86396,22,Female,44.11,High,USA
+225917,5909,LED Light Strip,6,2/10/2021 4:00,42.5,35279,32,Male,74.32,Low,Australia
+910717,4072,Notebook,2,2/10/2021 5:00,9.04,48106,33,Female,13.22,Medium,Australia
+399770,4124,Notebook,3,2/10/2021 6:00,96.55,89737,18,Female,238.45,Medium,Australia
+798168,9125,Notebook,4,2/10/2021 7:00,66.83,50544,33,Male,107.54,Low,USA
+581680,4291,Wireless Mouse,5,2/10/2021 8:00,84.48,18997,54,Female,114.22,Medium,United Kingdom
+381342,5033,Notebook,9,2/10/2021 9:00,30.32,95711,20,Female,78.01,High,Canada
+639542,6105,Desk Organizer,4,2/10/2021 10:00,47.91,50860,48,Male,77.86,High,Australia
+144238,1703,Ceramic Mug,9,2/10/2021 11:00,101.25,13225,30,Male,286.42,High,Australia
+101252,9133,Notebook,3,2/10/2021 12:00,144.97,69470,33,Male,388.7,Medium,Australia
+926196,1574,Wall Clock,8,2/10/2021 13:00,12.31,73656,38,Male,33.18,High,Canada
+964141,6704,Wall Clock,1,2/10/2021 14:00,134.11,61880,19,Female,341.06,Low,Australia
+585450,8848,Wireless Mouse,9,2/10/2021 15:00,88.65,71078,44,Female,244.83,Medium,Australia
+415826,6208,Desk Organizer,9,2/10/2021 16:00,86.77,98646,55,Female,226.6,Low,Australia
+421638,7924,Ceramic Mug,2,2/10/2021 17:00,77.54,86290,43,Male,170.98,Medium,Canada
+705605,4828,LED Light Strip,4,2/10/2021 18:00,15.06,66633,55,Male,23.97,Medium,Australia
+427359,4230,Bluetooth Speaker,8,2/10/2021 19:00,18.03,36655,42,Female,50.06,Medium,Australia
+702875,1488,Ceramic Mug,7,2/10/2021 20:00,92.13,53601,28,Male,247.02,Medium,Australia
+106949,8114,Bluetooth Speaker,1,2/10/2021 21:00,54.44,13114,25,Female,105.93,High,USA
+863185,4173,Water Bottle,5,2/10/2021 22:00,138,36502,25,Male,148.79,Medium,Canada
+417537,2667,Bluetooth Speaker,7,2/10/2021 23:00,63.96,59768,50,Female,145.64,High,Canada
+828913,5114,Home Decor Lamp,4,2/11/2021 0:00,25.78,58128,24,Female,28.39,High,Australia
+762301,4553,Wall Clock,1,2/11/2021 1:00,108.63,30028,55,Male,309.87,Medium,Australia
+650222,8761,Desk Organizer,9,2/11/2021 2:00,47.54,65565,38,Male,138.97,High,USA
+880722,2000,Storage Box,5,2/11/2021 3:00,81.19,93123,25,Male,111.96,Low,Australia
+555102,2388,Wireless Mouse,2,2/11/2021 4:00,106.19,45333,38,Male,249.84,High,Australia
+437889,6450,Home Decor Lamp,8,2/11/2021 5:00,135.54,13174,37,Female,160.55,Medium,Australia
+576467,4712,Bluetooth Speaker,2,2/11/2021 6:00,119.87,45398,25,Female,294.76,High,USA
+456600,2367,Notebook,3,2/11/2021 7:00,103.07,45929,48,Female,174.66,High,Australia
+415557,9189,Desk Organizer,1,2/11/2021 8:00,103.55,14321,46,Female,244.6,High,United Kingdom
+983671,1454,Home Decor Lamp,2,2/11/2021 9:00,142.16,65421,26,Male,248.18,High,Canada
+404462,3772,Wireless Mouse,7,2/11/2021 10:00,47.89,82635,32,Male,61.83,Medium,Australia
+350875,4726,Wall Clock,2,2/11/2021 11:00,5.16,33760,47,Male,9.35,Medium,Australia
+563389,8232,Desk Organizer,6,2/11/2021 12:00,44.43,21360,43,Female,54.44,Medium,USA
+170390,5806,Wireless Mouse,3,2/11/2021 13:00,36.59,20313,27,Male,78.81,Medium,USA
+807689,3190,Water Bottle,4,2/11/2021 14:00,100.97,95998,46,Female,109.24,Low,Canada
+353490,3875,Water Bottle,8,2/11/2021 15:00,96.89,15801,33,Male,199.07,High,United Kingdom
